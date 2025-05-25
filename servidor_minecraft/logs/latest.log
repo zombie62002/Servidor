@@ -2297,3 +2297,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25May2025 16:05:23.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [25May2025 16:05:38.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> eee
 [25May2025 16:05:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sans
+[25May2025 16:07:43.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[25May2025 16:07:43.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25May2025 16:07:43.109] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 16:09:55.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20352, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[25May2025 16:11:38.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20967, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[25May2025 16:11:56.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21013, l='ServerLevel[world]', x=-679.93, y=-256.00, z=356.28] died, message: 'Villager was killed'
+[25May2025 16:13:05.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:48271] logged in with entity id 21404 at (-754.2329936380139, 63.0, 380.5481793095276)
+[25May2025 16:13:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25May2025 16:13:23.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> k
+[25May2025 16:15:19.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.118.249.225:39085] logged in with entity id 22437 at (-773.25, 55.55000001192093, 306.25)
+[25May2025 16:15:19.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[25May2025 16:15:24.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22580, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
