@@ -2309,3 +2309,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25May2025 16:15:19.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.118.249.225:39085] logged in with entity id 22437 at (-773.25, 55.55000001192093, 306.25)
 [25May2025 16:15:19.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [25May2025 16:15:24.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22580, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[25May2025 16:16:57.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> patata
+[25May2025 16:30:58.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26601, l='ServerLevel[world]', x=-1778.77, y=73.94, z=969.30] died, message: 'Villager was slain by Zombie'
+[25May2025 16:33:31.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[25May2025 16:33:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game

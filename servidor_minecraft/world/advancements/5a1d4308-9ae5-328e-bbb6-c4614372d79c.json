@@ -11895,48 +11895,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-05-20 04:21:16 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
-  "gobber2:gobber2_ring_enderchest": {
-    "criteria": {
-      "gobber2_ring_enderchest": "2025-05-20 04:25:35 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
-    "criteria": {
-      "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-05-20 04:12:14 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-20 02:45:56 +0000"
@@ -11949,11 +11907,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "refurbished_furniture:recipes/misc/constructing/lime_kitchen_drawer": {
     "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
+      "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/magenta_kitchen_drawer": {
     "criteria": {
@@ -11961,35 +11919,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-05-20 04:43:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/brown_kitchen_drawer": {
     "criteria": {
@@ -11997,29 +11931,11 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/light_blue_kitchen_drawer": {
     "criteria": {
@@ -12027,33 +11943,9 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-20 04:57:13 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-05-20 04:43:32 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/cheese": {
-    "criteria": {
-      "has_milk": "2025-05-20 04:27:28 +0000"
     },
     "done": true
   },
@@ -12066,6 +11958,42 @@
   "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2025-05-20 03:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-20 04:12:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-20 04:21:16 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_enderchest": {
+    "criteria": {
+      "gobber2_ring_enderchest": "2025-05-20 04:25:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-20 04:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-20 04:43:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-20 04:43:32 +0000"
     },
     "done": true
   },
