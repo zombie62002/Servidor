@@ -2038,6 +2038,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-05-25 17:10:46 +0000",
       "in_better_spider_dungeon": "2025-04-18 04:07:34 +0000",
       "in_better_monster_room": "2025-04-23 05:03:49 +0000"
     },
@@ -11995,6 +11996,12 @@
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-05-20 04:43:32 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-25 17:10:46 +0000"
     },
     "done": true
   },

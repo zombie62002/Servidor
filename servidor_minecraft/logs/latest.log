@@ -2333,3 +2333,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25May2025 17:06:43.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [25May2025 17:07:13.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> jkanime
 [25May2025 17:07:34.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55228, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[25May2025 17:08:59.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -3.5995889987677856,1.0752008901189498,9.432695055849024
+[25May2025 17:08:59.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[25May2025 17:09:20.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -7.233261234894599,0.49520087700592086,6.913037537777711
+[25May2025 17:09:20.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[25May2025 17:09:39.998] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[25May2025 17:10:46.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [When in Rome]
