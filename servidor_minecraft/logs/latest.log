@@ -2313,3 +2313,16 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25May2025 16:30:58.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26601, l='ServerLevel[world]', x=-1778.77, y=73.94, z=969.30] died, message: 'Villager was slain by Zombie'
 [25May2025 16:33:31.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [25May2025 16:33:31.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[25May2025 16:37:09.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36250, l='ServerLevel[world]', x=-574.04, y=-256.00, z=400.50] died, message: 'Villager was killed'
+[25May2025 16:37:29.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36392, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[25May2025 16:37:44.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[25May2025 16:37:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25May2025 16:38:10.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:52003] logged in with entity id 36597 at (-764.7785062058883, 68.0, 374.9209058754927)
+[25May2025 16:38:10.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25May2025 16:38:36.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> g
+[25May2025 16:38:57.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:33215] logged in with entity id 36874 at (-640.7964762477853, 76.1192593002401, 289.00007634543744)
+[25May2025 16:38:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[25May2025 16:48:38.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Tactical Fishing]
+[25May2025 16:50:30.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[25May2025 16:50:30.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[25May2025 16:54:40.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Explore the Deep Without a Care]
