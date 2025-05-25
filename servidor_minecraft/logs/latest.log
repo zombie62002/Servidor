@@ -2375,3 +2375,30 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25May2025 17:34:15.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -4.189585118967216,-0.25942906872039373,9.569358882828737
 [25May2025 17:35:22.608] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [25May2025 17:35:36.710] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[25May2025 17:39:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Sapling by Any Other Name]
+[25May2025 17:41:33.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[25May2025 17:41:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25May2025 17:43:28.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86356, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[25May2025 17:44:12.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/87567, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[25May2025 17:44:56.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88509, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[25May2025 17:45:24.818] [Worker-Main-90/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 17:47:07.661] [Worker-Main-114/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-1, y=11, z=1036}
+[25May2025 17:48:49.455] [Worker-Main-60/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 17:48:49.455] [Worker-Main-60/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25May2025 17:50:29.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/94479, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[25May2025 18:05:07.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[25May2025 18:05:07.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[25May2025 18:06:27.690] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:45727] logged in with entity id 113106 at (-662.7201108706754, 73.0, 400.30000001192093)
+[25May2025 18:06:27.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[25May2025 18:06:45.151] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/114522, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[25May2025 18:09:13.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[25May2025 18:09:16.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/115962, l='ServerLevel[world]', x=-571.54, y=-256.00, z=404.65] died, message: 'Villager was killed'
+[25May2025 18:09:27.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/116786, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[25May2025 18:12:18.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[25May2025 18:12:18.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[25May2025 18:17:28.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:47403] logged in with entity id 122101 at (-681.3629159058619, 63.0, 414.20516242935577)
+[25May2025 18:17:28.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[25May2025 18:18:04.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ya vengo voy a almorzar
+[25May2025 18:18:11.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Dale Mi rey
+[25May2025 18:18:18.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Disconnected
+[25May2025 18:18:18.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game

@@ -13605,5 +13605,17 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/building_blocks/echo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 17:41:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/building_blocks/echo_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 17:41:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
