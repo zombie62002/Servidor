@@ -34,6 +34,7 @@
       "minecraft:snowy_slopes": "2025-04-19 05:07:48 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-08 05:30:56 +0000",
       "minecraft:taiga": "2025-04-18 04:26:17 +0000",
+      "minecraft:deep_ocean": "2025-05-25 17:15:08 +0000",
       "minecraft:frozen_river": "2025-05-10 05:22:38 +0000",
       "minecraft:cherry_grove": "2025-04-19 05:05:54 +0000",
       "minecraft:sunflower_plains": "2025-04-27 17:53:12 +0000",
@@ -11998,6 +11999,78 @@
       "has_lilac": "2025-05-20 04:43:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-25 17:23:23 +0000"
+    },
+    "done": false
   },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
