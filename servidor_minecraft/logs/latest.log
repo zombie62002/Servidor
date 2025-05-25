@@ -2269,3 +2269,31 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [25May2025 15:36:11.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11017, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
 [25May2025 15:51:18.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14390, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
 [25May2025 15:56:01.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15560, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[25May2025 15:58:16.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16071, l='ServerLevel[world]', x=-765.60, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[25May2025 15:59:41.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 was kicked for floating too long!
+[25May2025 15:59:41.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Flying is not enabled on this server
+[25May2025 15:59:41.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[25May2025 15:59:58.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:56405] logged in with entity id 16618 at (-671.5809181671412, 67.30355578773461, 425.46350979001363)
+[25May2025 15:59:58.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[25May2025 16:01:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[25May2025 16:02:58.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coño regreso el lag
+[25May2025 16:03:07.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[25May2025 16:03:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25May2025 16:03:24.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:59853] logged in with entity id 17594 at (-751.3968037941488, 63.49520087700592, 340.12217343308237)
+[25May2025 16:03:24.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25May2025 16:03:36.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lagaso
+[25May2025 16:03:54.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[25May2025 16:03:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25May2025 16:04:23.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:54567] logged in with entity id 18042 at (-752.5114186084297, 63.0, 377.24335745432273)
+[25May2025 16:04:23.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25May2025 16:04:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[25May2025 16:04:53.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[25May2025 16:04:53.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[25May2025 16:05:04.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[25May2025 16:05:04.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[25May2025 16:05:18.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:51967] logged in with entity id 18226 at (-701.9818439588148, 63.0, 442.2351317571093)
+[25May2025 16:05:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[25May2025 16:05:23.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:39415] logged in with entity id 19464 at (-752.5114186084297, 63.0, 377.24335745432273)
+[25May2025 16:05:23.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[25May2025 16:05:38.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> eee
+[25May2025 16:05:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> sans
