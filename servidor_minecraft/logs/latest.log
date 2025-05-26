@@ -2257,3 +2257,110 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26May2025 02:44:09.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4494, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
 [26May2025 02:46:36.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5789, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
 [26May2025 02:46:59.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5823, l='ServerLevel[world]', x=-682.50, y=-256.00, z=341.91] died, message: 'Villager was killed'
+[26May2025 02:49:54.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:44921] logged in with entity id 6717 at (-614.8837839817697, 80.67418340680312, 416.3499223742764)
+[26May2025 02:49:54.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[26May2025 02:50:09.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ahora si
+[26May2025 02:50:12.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> por fin
+[26May2025 02:50:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Holaaa broo
+[26May2025 02:50:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Hola mano
+[26May2025 02:50:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Proyecto Guri 2.0 Casi finalizado
+[26May2025 02:51:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Le da 30 patadas al de venezuela
+[26May2025 02:57:05.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[26May2025 02:57:09.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 5.717440197303745,-4.037483905037519,-16.215569083154435
+[26May2025 02:57:26.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -14.427574512222293,-2.2931150279651433,-10.940430872443415
+[26May2025 02:57:32.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -14.404977165411424,9.578209780444283,3.8820719074651606
+[26May2025 02:57:32.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[26May2025 02:59:04.988] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17797, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[26May2025 03:01:42.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22801, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[26May2025 03:02:03.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 17.91172692511924,-1.823564624691528,1.8024319705477865
+[26May2025 03:02:05.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
+[26May2025 03:02:07.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 5.093711710327398,-16.515032872288657,-6.571738866538908
+[26May2025 03:02:25.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3813ms or 76 ticks behind
+[26May2025 03:02:25.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -0.8457076786918378,-2.3589105289458985,17.1555385348056
+[26May2025 03:02:41.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -16.9658963910166,-1.5780388594263712,4.154102073822287
+[26May2025 03:02:41.311] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23625, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[26May2025 03:02:48.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8236ms or 164 ticks behind
+[26May2025 03:04:00.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[26May2025 03:04:02.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 7.323268035779506,-2.239106757838897,-16.121505608320604
+[26May2025 03:04:16.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -14.30618544649883,10.595131180291332,1.2247417772623521
+[26May2025 03:04:41.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -9.720742031758164,15.849290694792046,-0.3437343153168513
+[26May2025 03:04:47.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2722ms or 54 ticks behind
+[26May2025 03:04:54.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -17.590418824113158,6.216596831467143,0.6634739130995513
+[26May2025 03:04:59.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -16.752828924609048,6.910831451004611,1.983359115606163
+[26May2025 03:05:03.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -18.05673579891618,-0.5292609067259946,1.3147585692054236
+[26May2025 03:05:03.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[26May2025 03:05:03.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[26May2025 03:05:06.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4278ms or 85 ticks behind
+[26May2025 03:05:18.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:33939] logged in with entity id 26368 at (-661.0204298155764, 65.20000004768372, 404.62324109805576)
+[26May2025 03:05:18.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[26May2025 03:05:22.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/26607, l='ServerLevel[world]', x=-613.35, y=63.00, z=439.79] died, message: 'Fletcher was slain by The Moonflower'
+[26May2025 03:06:37.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3922ms or 78 ticks behind
+[26May2025 03:06:38.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 16.96480448864054,-3.8296528093309377,-3.2751187032358757
+[26May2025 03:06:40.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved wrongly!
+[26May2025 03:08:18.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 4.088546520244563,4.072415529143925,16.893016177200934
+[26May2025 03:08:18.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[26May2025 03:08:20.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! 11.122666292039867,-5.3653693928600035,-12.3262826325672
+[26May2025 03:08:38.961] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26May2025 03:08:38.962] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26May2025 03:08:38.962] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26May2025 03:08:53.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1631, y=-65, z=2554} but found not block entity block Block{minecraft:air} at location
+[26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1631, y=-65, z=2554}
+[26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1628, y=-65, z=2554} but found not block entity block Block{minecraft:air} at location
+[26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1628, y=-65, z=2554}
+[26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1629, y=-65, z=2554} but found not block entity block Block{minecraft:air} at location
+[26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1629, y=-65, z=2554}
+[26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1632, y=-65, z=2554} but found not block entity block Block{minecraft:air} at location
+[26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1632, y=-65, z=2554}
+[26May2025 03:08:53.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1631, y=-65, z=2553} but found not block entity block Block{minecraft:air} at location
+[26May2025 03:08:53.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1631, y=-65, z=2553}
