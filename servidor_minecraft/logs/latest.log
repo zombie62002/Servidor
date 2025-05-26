@@ -2490,3 +2490,9 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26May2025 04:10:31.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> xd
 [26May2025 04:10:45.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> chavista no es genbte
 [26May2025 04:10:58.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Eso no cabe duda, pero gracias a dios No dependo del chavismo para vivi
+[26May2025 04:12:00.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26May2025 04:12:00.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26May2025 04:12:34.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[26May2025 04:12:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[26May2025 04:13:26.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:53069] logged in with entity id 68057 at (-765.5789356914377, 63.0, 329.4314666907476)
+[26May2025 04:13:26.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
