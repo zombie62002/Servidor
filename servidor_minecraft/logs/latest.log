@@ -2427,3 +2427,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26May2025 23:44:08.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/172070, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
 [26May2025 23:44:22.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/172578, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
 [26May2025 23:45:44.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/175584, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[26May2025 23:46:19.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/176808, l='ServerLevel[world]', x=-601.61, y=-256.00, z=416.06] died, message: 'Villager was killed'
+[26May2025 23:48:32.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[26May2025 23:48:32.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26May2025 23:48:46.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> desde cuando herobrine deja notas?
+[26May2025 23:49:00.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Desde hace rato en realidad
+[26May2025 23:49:15.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/182210, l='ServerLevel[world]', x=-681.51, y=-256.00, z=352.15] died, message: 'Villager was killed'
