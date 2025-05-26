@@ -9209,3 +9209,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26May2025 02:36:59.229] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 105
 [26May2025 02:36:59.229] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3086edfc, b=0, e=89}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3086edfc, b=117, e=125}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3086edfc, b=90, e=116}}
 [26May2025 02:36:59.229] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@3086edfc, b=90, e=116}
+[26May2025 02:39:06.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:39:06.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:44:06.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 02:44:06.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 02:44:09.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4494, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[26May2025 02:45:07.087] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_structure.PistonStructureResolverMixin from canary.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[26May2025 02:46:36.088] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5789, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[26May2025 02:46:59.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5823, l='ServerLevel[world]', x=-682.50, y=-256.00, z=341.91] died, message: 'Villager was killed'
