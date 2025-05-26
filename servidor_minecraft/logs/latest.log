@@ -2364,3 +2364,10 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26May2025 03:08:53.740] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1632, y=-65, z=2554}
 [26May2025 03:08:53.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1631, y=-65, z=2553} but found not block entity block Block{minecraft:air} at location
 [26May2025 03:08:53.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1631, y=-65, z=2553}
+[26May2025 03:10:15.039] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26May2025 03:10:15.041] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26May2025 03:17:30.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Brooo
+[26May2025 03:17:32.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> LISTO
+[26May2025 03:17:38.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Guri Activo
+[26May2025 03:17:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> LLegate a la casa
+[26May2025 03:18:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> voy
