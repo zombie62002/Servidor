@@ -2371,3 +2371,19 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26May2025 03:17:38.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Guri Activo
 [26May2025 03:17:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> LLegate a la casa
 [26May2025 03:18:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> voy
+[26May2025 03:20:25.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/38766, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[26May2025 03:20:39.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Chingada madre
+[26May2025 03:20:49.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> estoy en una construccion
+[26May2025 03:20:58.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Agarre el cofre y se lleno todo de lava
+[26May2025 03:25:31.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44599, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[26May2025 03:25:42.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44786, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[26May2025 03:25:46.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[26May2025 03:25:58.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45042, l='ServerLevel[world]', x=-680.43, y=-256.00, z=354.01] died, message: 'Villager was killed'
+[26May2025 03:26:19.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Me mie en el deposito de fluidos
+[26May2025 03:27:29.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina moved too quickly! -7.373905856125475,0.6718590759339094,-7.115901083785445
+[26May2025 03:31:34.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[26May2025 03:33:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
+[26May2025 03:34:49.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Wax Off]
+[26May2025 03:39:35.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56496, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[26May2025 03:40:11.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56982, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[26May2025 03:40:27.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57145, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
