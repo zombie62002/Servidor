@@ -2387,3 +2387,67 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [26May2025 03:39:35.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56496, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
 [26May2025 03:40:11.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56982, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
 [26May2025 03:40:27.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57145, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[26May2025 03:42:29.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Mi rey
+[26May2025 03:42:35.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Viste mi Casa?
+[26May2025 03:42:37.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Consegui
+[26May2025 03:42:39.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Por fin
+[26May2025 03:42:41.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si vi
+[26May2025 03:42:45.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Pero estabas afk creo
+[26May2025 03:42:46.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> OH conseguiste un Manglar
+[26May2025 03:42:51.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58378, l='ServerLevel[world]', x=-571.52, y=-256.00, z=399.20] died, message: 'Villager was killed'
+[26May2025 03:42:53.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> nono andaba en el Nether
+[26May2025 03:42:58.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58624, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[26May2025 03:46:03.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59621, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[26May2025 03:49:11.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:50169] logged in with entity id 60537 at (-768.1945581747086, 68.0, 372.69662521383333)
+[26May2025 03:49:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26May2025 03:49:39.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y como la conquistaste?
+[26May2025 03:49:43.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> le enseñe a leer
+[26May2025 03:49:50.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> balatrisimo, hermano
+[26May2025 03:51:56.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26May2025 03:51:56.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26May2025 03:52:35.277] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:37303] logged in with entity id 61831 at (-791.8876912526412, 63.0, 369.0389692445766)
+[26May2025 03:52:35.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26May2025 03:53:08.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ,
+[26May2025 03:53:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Seba
+[26May2025 03:53:35.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> q
+[26May2025 03:53:37.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> consegui madera de mangle
+[26May2025 03:53:45.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cual es esa?
+[26May2025 03:53:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ahora me la puedo culiar en el fnaf
+[26May2025 03:53:59.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> xd
+[26May2025 03:54:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Una color vinotinto
+[26May2025 03:54:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ni a coñazo digo color chavista
+[26May2025 03:54:31.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aun no conseguimos un manglar verdad?
+[26May2025 03:56:29.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Nop
+[26May2025 03:56:40.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> costo un huevo terminar el frente de mi barco, alfin lo complete
+[26May2025 03:56:45.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Me robe el manglar de una estructura
+[26May2025 03:56:49.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> esta se la dedico a vegeta
+[26May2025 03:56:59.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pero tener pa sembrar manglar?
+[26May2025 03:57:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> osea el arbol
+[26May2025 03:57:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Sebaaa llegate a mi casa
+[26May2025 03:57:10.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Muchachos
+[26May2025 03:57:14.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Murio el zulia
+[26May2025 03:57:21.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Luis caldera es el gobernador
+[26May2025 03:57:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> que raro
+[26May2025 03:57:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que raro x2
+[26May2025 03:57:41.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Ya murio el zulia xd
+[26May2025 03:57:48.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> lleva rato muerta
+[26May2025 03:57:59.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahora solo falta el velorio
+[26May2025 03:58:06.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Efectivamente
+[26May2025 03:58:14.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Lo normal, Por eso no vote, esa gente pone a losque quieren
+[26May2025 03:58:22.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pero no tener el brote no?
+[26May2025 03:58:26.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> de manglar
+[26May2025 03:58:29.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Si practicamente nadie voto
+[26May2025 03:58:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Nop
+[26May2025 03:58:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Robe mucha madera
+[26May2025 03:58:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ah yap
+[26May2025 03:58:46.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Seba Mira mi generador electrico
+[26May2025 03:58:46.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Me falta seguirle robando mas madera
+[26May2025 03:59:07.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asu
+[26May2025 03:59:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Esto Es maquinaria Pura Papa
+[26May2025 04:00:21.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> No te preguntes porque suena un tick es una Maquina
+[26May2025 04:00:46.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Argenis
+[26May2025 04:00:47.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64344, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[26May2025 04:00:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que paso?
+[26May2025 04:00:51.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y toda esta maquinaria que hace?
+[26May2025 04:01:03.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> El esequivo es de guyana no?
+[26May2025 04:01:11.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> por ahora si
