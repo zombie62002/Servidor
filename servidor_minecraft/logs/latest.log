@@ -2334,3 +2334,50 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26May2025 22:31:53.873] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Pokenaito just tried to change non-editable sign
 [26May2025 22:32:19.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
 [26May2025 22:32:19.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[26May2025 22:36:03.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.35637222798914,-0.5765804788217395,-3.9397366794639765
+[26May2025 22:37:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Sebas ven
+[26May2025 22:37:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> q
+[26May2025 22:37:57.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> new Machine
+[26May2025 22:38:02.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ira we
+[26May2025 22:38:06.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el balatro
+[26May2025 22:38:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
+[26May2025 22:38:17.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> La casa del balatreo
+[26May2025 22:38:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Aja ven conmigo
+[26May2025 22:38:35.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> alareverga
+[26May2025 22:38:36.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Mi nueva central electrica con sus poste
+[26May2025 22:38:49.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> corpoelect
+[26May2025 22:39:03.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> alaverga askdla
+[26May2025 22:39:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Y nueva Maquina generadora de Piedra
+[26May2025 22:39:24.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Nono aun no se donde poner la piedra
+[26May2025 22:39:34.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> la que cae entra en la bovedad
+[26May2025 22:39:42.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> literalmente corpoelect
+[26May2025 22:39:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> si funcionara claro
+[26May2025 22:40:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Me cago en la pinga te quedaste encerrado?
+[26May2025 22:40:19.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ah mierda ahie stas
+[26May2025 22:40:20.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nou
+[26May2025 22:40:39.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya con esto me falta hacer generadora de experiencia
+[26May2025 22:41:01.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Como te digo Ya con mi central electrica puedo hacer cualquier maquinaria
+[26May2025 22:41:02.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> durisimo hermano
+[26May2025 22:41:20.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pa cuando el helicoptero?
+[26May2025 22:43:53.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41164, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[26May2025 22:44:20.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[26May2025 22:44:20.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[26May2025 22:44:28.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[26May2025 22:44:28.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[26May2025 22:45:03.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:59817] logged in with entity id 42343 at (-684.6999999880791, 66.59563273362987, 453.30000001192093)
+[26May2025 22:45:03.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[26May2025 22:45:17.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:56897] logged in with entity id 44066 at (-683.852920544345, 70.0, 353.8578856959679)
+[26May2025 22:45:17.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[26May2025 22:45:34.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> .
+[26May2025 22:47:26.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48437, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[26May2025 22:49:18.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52318, l='ServerLevel[world]', x=-599.44, y=-256.00, z=417.08] died, message: 'Villager was killed'
+[26May2025 22:52:35.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59309, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[26May2025 22:53:13.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.231.94.55:38201] logged in with entity id 60708 at (-556.5506648098469, 47.818190108102876, 401.5597782319464)
+[26May2025 22:53:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[26May2025 22:53:24.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Migueee
+[26May2025 22:53:26.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Pasa el contacto
+[26May2025 22:53:31.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> New Machine
+[26May2025 22:53:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> sabeis redactar bien?
+[26May2025 22:53:46.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> De bolas
+[26May2025 22:53:52.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Igual esta chat gpt
+[26May2025 22:53:58.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XD
