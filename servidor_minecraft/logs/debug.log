@@ -10647,3 +10647,30 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26May2025 22:14:23.741] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-685, y=69, z=353}) doesn't have enough leaves around top most log
 [26May2025 22:14:24.301] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
 [26May2025 22:14:30.800] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-685, y=69, z=356}) doesn't have enough leaves around top most log
+[26May2025 22:14:45.938] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[26May2025 22:15:49.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 22:15:49.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 22:16:13.853] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[26May2025 22:17:53.513] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.api.contraption.BlockMovementChecks
+[26May2025 22:20:49.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 22:20:49.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 22:21:01.090] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[26May2025 22:21:01.090] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45864b76, b=81, e=89}, net.minecraft.world.CompoundContainer@4a4cfe1a=InventoryMapping{i=net.minecraft.world.CompoundContainer@4a4cfe1a, c=net.minecraft.world.inventory.ChestMenu@45864b76, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@45864b76, b=54, e=80}}
+[26May2025 22:21:01.090] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@4a4cfe1a, c=net.minecraft.world.inventory.ChestMenu@45864b76, b=0, e=53}
+[26May2025 22:24:35.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25324, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[26May2025 22:25:49.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 22:25:49.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 22:25:49.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25711, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[26May2025 22:26:20.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25840, l='ServerLevel[world]', x=-598.77, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[26May2025 22:28:56.601] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-681, y=73, z=356}) doesn't have enough leaves around top most log
+[26May2025 22:29:16.194] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-680, y=73, z=357}) doesn't have enough leaves around top most log
+[26May2025 22:30:41.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27062, l='ServerLevel[world]', x=-681.51, y=-256.00, z=352.15] died, message: 'Villager was killed'
+[26May2025 22:30:49.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 22:30:49.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 22:31:01.999] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27345, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[26May2025 22:31:53.873] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Pokenaito just tried to change non-editable sign
+[26May2025 22:32:19.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[26May2025 22:32:19.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[26May2025 22:34:57.937] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[26May2025 22:34:57.938] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4f973677, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4f973677, b=54, e=80}, net.minecraft.world.CompoundContainer@51f84465=InventoryMapping{i=net.minecraft.world.CompoundContainer@51f84465, c=net.minecraft.world.inventory.ChestMenu@4f973677, b=0, e=53}}
+[26May2025 22:34:57.938] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@51f84465, c=net.minecraft.world.inventory.ChestMenu@4f973677, b=0, e=53}

@@ -12955,5 +12955,23 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-05-26 22:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-05-26 22:18:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2025-05-26 22:12:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

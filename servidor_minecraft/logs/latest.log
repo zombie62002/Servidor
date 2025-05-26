@@ -2326,3 +2326,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26May2025 22:10:01.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.45128775980072,-0.8065188158783343,-4.834507949289275
 [26May2025 22:10:19.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18160, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
 [26May2025 22:11:32.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18661, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[26May2025 22:24:35.996] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25324, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[26May2025 22:25:49.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25711, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[26May2025 22:26:20.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25840, l='ServerLevel[world]', x=-598.77, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[26May2025 22:30:41.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27062, l='ServerLevel[world]', x=-681.51, y=-256.00, z=352.15] died, message: 'Villager was killed'
+[26May2025 22:31:01.999] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27345, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[26May2025 22:31:53.873] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player Pokenaito just tried to change non-editable sign
+[26May2025 22:32:19.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Timed out
+[26May2025 22:32:19.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
