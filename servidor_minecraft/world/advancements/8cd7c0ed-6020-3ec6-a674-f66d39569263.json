@@ -11090,15 +11090,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-26 02:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-26 02:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
       "has_logs": "2025-05-26 03:28:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_wood": {
+  "minecraft:husbandry/wax_off": {
     "criteria": {
-      "has_log": "2025-05-26 02:54:29 +0000"
+      "wax_off": "2025-05-26 03:34:49 +0000"
     },
     "done": true
   },
@@ -11150,12 +11162,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2025-05-26 03:34:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/mangrove_door": {
     "criteria": {
       "has_planks": "2025-05-26 03:52:04 +0000"
@@ -11165,12 +11171,6 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_cutting_board": {
     "criteria": {
       "has_mangrove_planks": "2025-05-26 03:52:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-05-26 02:54:29 +0000"
     },
     "done": true
   },
