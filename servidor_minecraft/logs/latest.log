@@ -2256,3 +2256,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 [27May2025 01:40:04.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1669, l='ServerLevel[world]', x=-735.00, y=-256.00, z=301.50] died, message: 'Villager was killed'
+[27May2025 01:51:17.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7933, l='ServerLevel[world]', x=-574.41, y=-256.00, z=400.50] died, message: 'Villager was killed'
+[27May2025 01:51:32.197] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@749d0910[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:47607) lost connection: Disconnected
+[27May2025 01:51:51.639] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40cbe69d[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:52511) lost connection: Disconnected
+[27May2025 01:52:29.491] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f92737b[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:36033) lost connection: Timed out
+[27May2025 01:52:38.041] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5418b10[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:45743) lost connection: Disconnected
+[27May2025 01:52:50.344] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@703723c0[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:58205) lost connection: Disconnected
+[27May2025 01:53:32.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8477, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[27May2025 01:53:35.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@35fd33d3[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:39215): Took too long to log in
+[27May2025 01:53:35.194] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35fd33d3[id=<null>,name=Lechina,properties={},legacy=false] (/127.73.99.216:39215) lost connection: Took too long to log in
+[27May2025 01:53:35.239] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27May2025 01:54:15.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:33757] logged in with entity id 9250 at (-551.1439983641243, 23.223131366845745, 411.5477577578656)
+[27May2025 01:54:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
