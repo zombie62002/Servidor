@@ -2589,3 +2589,30 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27May2025 04:10:01.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41672, l='ServerLevel[world]', x=-599.44, y=-256.00, z=417.08] died, message: 'Villager was killed'
 [27May2025 04:11:45.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42062, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
 [27May2025 04:13:43.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42983, l='ServerLevel[world]', x=-601.68, y=-256.00, z=401.85] died, message: 'Villager was killed'
+[27May2025 04:14:57.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43329, l='ServerLevel[world]', x=-598.22, y=-256.00, z=401.97] died, message: 'Villager was killed'
+[27May2025 04:15:31.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[27May2025 04:15:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[27May2025 04:15:31.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 lost connection: Timed out
+[27May2025 04:15:31.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 left the game
+[27May2025 04:15:31.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[27May2025 04:15:31.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[27May2025 04:15:31.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:34359] logged in with entity id 43548 at (-677.6317690521348, 63.34572335999117, 419.4059302437751)
+[27May2025 04:15:31.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[27May2025 04:15:44.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.117.72.42:45057] logged in with entity id 43598 at (-753.8615317657059, 64.0, 302.26175989346376)
+[27May2025 04:15:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[27May2025 04:16:18.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:40975] logged in with entity id 43968 at (-778.0875354246111, 63.0, 308.1602233375268)
+[27May2025 04:16:18.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[27May2025 04:16:23.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44019, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[27May2025 04:16:39.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ohana
+[27May2025 04:17:01.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44087, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[27May2025 04:17:09.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -2.0575660871685386,-0.756759288177264,-10.194837596808611
+[27May2025 04:17:21.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44372, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[27May2025 04:17:24.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44409, l='ServerLevel[world]', x=-676.83, y=-256.00, z=351.98] died, message: 'Villager was killed'
+[27May2025 04:17:33.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44467, l='ServerLevel[world]', x=-602.47, y=-256.00, z=417.25] died, message: 'Villager was killed'
+[27May2025 04:18:24.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[27May2025 04:18:24.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[27May2025 04:18:46.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:41267] logged in with entity id 44998 at (-755.2448945281363, 70.0, 345.29333036586416)
+[27May2025 04:18:46.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[27May2025 04:18:58.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adsad
+[27May2025 04:19:10.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> en la sala de un hospital
+[27May2025 04:22:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Fire is Your Friend]
