@@ -13689,6 +13689,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/overstress_clutch": {
+    "criteria": {
+      "has_item": "2025-05-27 03:27:32 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
     "criteria": {
       "has_item": "2025-05-27 03:02:50 +0000"
@@ -13755,9 +13761,27 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-05-27 03:22:08 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_access_port": {
+    "criteria": {
+      "has_item": "2025-05-27 03:27:32 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/crank_wheel": {
     "criteria": {
       "has_item": "2025-05-27 03:02:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/inventory_bridge": {
+    "criteria": {
+      "has_item": "2025-05-27 03:27:32 +0000"
     },
     "done": true
   },

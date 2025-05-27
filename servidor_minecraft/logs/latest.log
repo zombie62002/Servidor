@@ -2534,3 +2534,8 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27May2025 03:21:03.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 0.0,-10.795229684742516,0.0
 [27May2025 03:21:35.333] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [27May2025 03:22:19.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[27May2025 03:22:36.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[27May2025 03:29:13.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18797, l='ServerLevel[world]', x=-596.78, y=-256.00, z=417.04] died, message: 'Villager was killed'
+[27May2025 03:31:07.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20068, l='ServerLevel[world]', x=-765.59, y=-256.00, z=338.94] died, message: 'Villager was killed'
+[27May2025 03:31:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Jaws]
+[27May2025 03:31:40.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20650, l='ServerLevel[world]', x=-570.47, y=-256.00, z=402.97] died, message: 'Villager was killed'
