@@ -12999,6 +12999,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-05-27 04:08:32 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
     "criteria": {
       "has_item": "2025-05-27 03:52:33 +0000"
@@ -13008,6 +13014,24 @@
   "brewery:main/copper_brewmaster": {
     "criteria": {
       "brewing_station": "2025-05-27 03:44:46 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_cristelwalker": {
+    "criteria": {
+      "whiskey_cristelwalker": "2025-05-27 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_hadarilabel": {
+    "criteria": {
+      "whiskey_carrasconlabel": "2025-05-27 04:03:55 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-05-27 04:08:32 +0000"
     },
     "done": true
   },

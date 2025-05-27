@@ -12089,6 +12089,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_stealth": {
+    "criteria": {
+      "gobber2_ring_stealth": "2025-05-27 04:05:51 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_blink": {
     "criteria": {
       "gobber2_ring_blink": "2025-05-27 03:52:58 +0000"
