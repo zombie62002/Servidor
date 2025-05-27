@@ -4516,8 +4516,10 @@
       "rice": "2025-04-18 22:32:26 +0000",
       "kelp": "2025-04-19 05:38:27 +0000",
       "beetroot": "2025-04-29 22:29:45 +0000",
+      "brown_mushroom": "2025-05-27 03:46:54 +0000",
       "sugar_cane": "2025-04-23 06:12:09 +0000",
       "potato": "2025-04-20 05:34:02 +0000",
+      "red_mushroom": "2025-05-27 03:47:00 +0000",
       "nether_wart": "2025-05-06 04:08:08 +0000",
       "wheat": "2025-04-18 19:00:51 +0000",
       "melon": "2025-05-08 04:24:06 +0000",
@@ -12988,6 +12990,24 @@
   "brewery:main/get_dried_wheat": {
     "criteria": {
       "dry_wheat": "2025-05-27 03:36:10 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_dried_corn": {
+    "criteria": {
+      "dry_corn": "2025-05-27 03:42:24 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-27 03:52:33 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/copper_brewmaster": {
+    "criteria": {
+      "brewing_station": "2025-05-27 03:44:46 +0000"
     },
     "done": true
   },

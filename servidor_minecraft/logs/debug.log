@@ -13085,3 +13085,22 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27May2025 03:38:08.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 03:38:08.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 03:38:08.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rempalago181 moved too quickly! 9.705626085597942,0.06916543758991622,-2.640841137110556
+[27May2025 03:43:08.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:43:08.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:44:10.964] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-577, y=53, z=403}) doesn't have enough leaves around top most log
+[27May2025 03:44:11.912] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-577, y=53, z=402}) doesn't have enough leaves around top most log
+[27May2025 03:44:26.411] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[27May2025 03:44:26.411] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=54, e=80}, net.minecraft.world.CompoundContainer@2265a89b=InventoryMapping{i=net.minecraft.world.CompoundContainer@2265a89b, c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=0, e=53}}
+[27May2025 03:44:26.411] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@2265a89b, c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=0, e=53}
+[27May2025 03:44:28.510] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[27May2025 03:44:28.510] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=54, e=80}, net.minecraft.world.CompoundContainer@2265a89b=InventoryMapping{i=net.minecraft.world.CompoundContainer@2265a89b, c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=0, e=53}}
+[27May2025 03:44:28.510] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@2265a89b, c=net.minecraft.world.inventory.ChestMenu@2dfa6ae2, b=0, e=53}
+[27May2025 03:44:46.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Copper Brewmaster]
+[27May2025 03:48:08.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:48:08.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 03:48:45.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34649, l='ServerLevel[world]', x=-570.34, y=-256.00, z=402.98] died, message: 'Villager was killed'
+[27May2025 03:51:48.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35554, l='ServerLevel[world]', x=-737.50, y=61.56, z=297.50] died, message: 'Villager was killed'
+[27May2025 03:52:15.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36047, l='ServerLevel[world]', x=-597.71, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[27May2025 03:52:58.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Travel Like an Enderman]
+[27May2025 03:53:08.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 03:53:08.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
