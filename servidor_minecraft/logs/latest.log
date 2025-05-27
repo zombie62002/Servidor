@@ -2268,3 +2268,18 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27May2025 01:53:35.239] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [27May2025 01:54:15.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:33757] logged in with entity id 9250 at (-551.1439983641243, 23.223131366845745, 411.5477577578656)
 [27May2025 01:54:15.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[27May2025 01:58:46.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.117.72.42:58787] logged in with entity id 11082 at (3254.3540791557607, 69.0, -372.29862217395277)
+[27May2025 01:58:46.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[27May2025 01:59:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> patata
+[27May2025 01:59:47.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Andamos en discord
+[27May2025 02:01:21.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina was kicked for floating too long!
+[27May2025 02:01:21.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Flying is not enabled on this server
+[27May2025 02:01:21.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[27May2025 02:01:51.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lechina[/127.73.99.216:45507] logged in with entity id 15463 at (-569.772281975189, 48.7967356006687, 403.83496900544196)
+[27May2025 02:01:51.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina joined the game
+[27May2025 02:02:45.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:36453] logged in with entity id 16370 at (-762.436986709932, 63.0, 346.0438577517845)
+[27May2025 02:02:45.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[27May2025 02:03:15.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> deltarune mañana
+[27May2025 02:05:46.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18573, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[27May2025 02:06:19.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19197, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
+[27May2025 02:06:45.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19322, l='ServerLevel[world]', x=-683.28, y=-256.00, z=350.03] died, message: 'Villager was killed'
