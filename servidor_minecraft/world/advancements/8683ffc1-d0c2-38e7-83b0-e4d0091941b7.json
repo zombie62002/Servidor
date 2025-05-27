@@ -13683,9 +13683,27 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst": {
+    "criteria": {
+      "has_the_recipe": "2025-05-27 03:08:50 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
     "criteria": {
       "has_item": "2025-05-27 03:02:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_blasting": {
+    "criteria": {
+      "has_item": "2025-05-27 03:08:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_haunting": {
+    "criteria": {
+      "has_item": "2025-05-27 03:08:50 +0000"
     },
     "done": true
   },
@@ -13695,15 +13713,45 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_freezing": {
+    "criteria": {
+      "has_item": "2025-05-27 03:08:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_seething": {
+    "criteria": {
+      "has_item": "2025-05-27 03:08:50 +0000"
+    },
+    "done": true
+  },
   "create_connected:root": {
     "criteria": {
       "0": "2025-05-27 03:02:50 +0000"
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_splashing": {
+    "criteria": {
+      "has_item": "2025-05-27 03:08:50 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
     "criteria": {
       "has_item": "2025-05-27 03:03:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_smoking": {
+    "criteria": {
+      "has_item": "2025-05-27 03:08:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/empty_fan_catalyst_from_sanding": {
+    "criteria": {
+      "has_item": "2025-05-27 03:08:50 +0000"
     },
     "done": true
   },
