@@ -11556,7 +11556,8 @@
   },
   "brewery:main/crop_collector": {
     "criteria": {
-      "brewery:corn": "2025-05-12 23:48:17 +0000"
+      "brewery:corn": "2025-05-12 23:48:17 +0000",
+      "brewery:hops": "2025-05-27 04:29:01 +0000"
     },
     "done": false
   },
@@ -13034,6 +13035,12 @@
       "has_item": "2025-05-27 04:08:32 +0000"
     },
     "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops": "2025-05-27 04:29:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

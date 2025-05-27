@@ -11217,6 +11217,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-05-27 04:29:46 +0000"
+    },
+    "done": true
+  },
   "create_connected:root": {
     "criteria": {
       "0": "2025-05-27 03:10:50 +0000"
@@ -11232,6 +11238,18 @@
   "create_connected:recipes/crafting/kinetics/brake": {
     "criteria": {
       "has_item": "2025-05-27 03:23:05 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-05-27 04:29:46 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_hadarilabel": {
+    "criteria": {
+      "whiskey_carrasconlabel": "2025-05-27 04:27:19 +0000"
     },
     "done": true
   },
