@@ -2626,3 +2626,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [27May2025 04:32:46.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49823, l='ServerLevel[world]', x=-566.35, y=-256.00, z=402.99] died, message: 'Villager was killed'
 [27May2025 04:33:14.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50229, l='ServerLevel[world]', x=-596.78, y=-256.00, z=417.04] died, message: 'Villager was killed'
 [27May2025 04:33:50.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [A Cure for What Ails You]
+[27May2025 04:34:28.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50609, l='ServerLevel[world]', x=-612.50, y=53.00, z=407.50] died, message: 'Villager was killed'
+[27May2025 04:34:41.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51108, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[27May2025 04:35:23.293] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51522, l='ServerLevel[world]', x=-568.63, y=-256.00, z=402.98] died, message: 'Villager was killed'
+[27May2025 04:36:12.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51784, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'

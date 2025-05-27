@@ -12101,9 +12101,27 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-05-27 04:34:21 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_curing": {
+    "criteria": {
+      "gobber2_ring_curing": "2025-05-27 04:33:50 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_phoenix": {
     "criteria": {
       "gobber2_ring_phoenix": "2025-05-27 04:22:54 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-05-27 04:34:21 +0000"
     },
     "done": true
   },
