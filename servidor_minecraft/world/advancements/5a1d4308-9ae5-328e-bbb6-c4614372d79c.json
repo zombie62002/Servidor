@@ -12077,5 +12077,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-05-27 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-05-27 03:33:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

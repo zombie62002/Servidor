@@ -11222,6 +11222,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-05-27 03:33:50 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/brake": {
     "criteria": {
       "has_item": "2025-05-27 03:23:05 +0000"
