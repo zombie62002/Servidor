@@ -13797,6 +13797,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-05-29 02:15:52 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
     "criteria": {
       "has_item": "2025-05-29 01:55:55 +0000"
@@ -13815,6 +13821,18 @@
     },
     "done": true
   },
+  "create:ejector_maxed": {
+    "criteria": {
+      "0": "2025-05-29 02:11:58 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-05-29 02:09:19 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/parallel_gearbox": {
     "criteria": {
       "has_item": "2025-05-29 01:55:55 +0000"
@@ -13824,6 +13842,12 @@
   "create_connected:recipes/crafting/kinetics/brass_gearbox": {
     "criteria": {
       "has_item": "2025-05-29 01:56:04 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-05-29 02:09:12 +0000"
     },
     "done": true
   },

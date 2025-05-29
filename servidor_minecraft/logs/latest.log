@@ -2292,3 +2292,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29May2025 02:09:28.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9630, l='ServerLevel[world]', x=-570.38, y=-256.00, z=417.11] died, message: 'Villager was killed'
 [29May2025 02:09:53.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9771, l='ServerLevel[world]', x=-572.26, y=-256.00, z=401.92] died, message: 'Villager was killed'
 [29May2025 02:10:51.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10307, l='ServerLevel[world]', x=-572.34, y=-256.00, z=401.89] died, message: 'Villager was killed'
+[29May2025 02:11:27.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10388, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[29May2025 02:11:58.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Springboard Champion]
+[29May2025 02:12:04.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10656, l='ServerLevel[world]', x=-579.20, y=-256.00, z=412.29] died, message: 'Villager was killed'
+[29May2025 02:12:57.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 5.268070508776759,0.5385331069136186,9.164291401290825
+[29May2025 02:15:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [A Shower "Experience"]
+[29May2025 02:19:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Better Blade]
