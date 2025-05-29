@@ -13827,6 +13827,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2025-05-29 02:19:19 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:experimental": {
     "criteria": {
       "builtin": "2025-05-29 02:09:19 +0000"

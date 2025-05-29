@@ -2298,3 +2298,12 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [29May2025 02:12:57.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! 5.268070508776759,0.5385331069136186,9.164291401290825
 [29May2025 02:15:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [A Shower "Experience"]
 [29May2025 02:19:19.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Better Blade]
+[29May2025 02:23:56.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15665, l='ServerLevel[world]', x=-568.15, y=-256.00, z=417.12] died, message: 'Villager was killed'
+[29May2025 02:24:09.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15710, l='ServerLevel[world]', x=-568.63, y=-256.00, z=402.98] died, message: 'Villager was killed'
+[29May2025 02:25:01.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16225, l='ServerLevel[world]', x=-680.43, y=-256.00, z=354.01] died, message: 'Villager was killed'
+[29May2025 02:25:04.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16272, l='ServerLevel[world]', x=-570.46, y=-256.00, z=416.00] died, message: 'Villager was killed'
+[29May2025 02:25:21.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16515, l='ServerLevel[world]', x=-571.52, y=-256.00, z=417.07] died, message: 'Villager was killed'
+[29May2025 02:25:35.662] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16825, l='ServerLevel[world]', x=-570.46, y=-256.00, z=416.00] died, message: 'Villager was killed'
+[29May2025 02:27:43.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19009, l='ServerLevel[world]', x=-583.85, y=-256.00, z=403.15] died, message: 'Villager was killed'
+[29May2025 02:29:56.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19932, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[29May2025 02:30:39.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21664, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
