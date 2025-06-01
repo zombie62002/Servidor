@@ -2630,3 +2630,47 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 05:22:49.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258067, l='ServerLevel[world]', x=-587.44, y=-256.00, z=401.93] died, message: 'Villager was killed'
 [01Jun2025 05:22:51.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258072, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
 [01Jun2025 05:22:55.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258096, l='ServerLevel[world]', x=-601.61, y=-256.00, z=416.06] died, message: 'Villager was killed'
+[01Jun2025 05:24:16.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/259482, l='ServerLevel[world]', x=-571.52, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[01Jun2025 05:24:59.012] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/260407, l='ServerLevel[world]', x=-572.04, y=-256.00, z=401.89] died, message: 'Villager was killed'
+[01Jun2025 05:25:06.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/260662, l='ServerLevel[world]', x=-566.54, y=-256.00, z=417.04] died, message: 'Villager was killed'
+[01Jun2025 05:26:19.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=16, z=135} BlockPos{x=10, y=16, z=135}
+[01Jun2025 05:26:38.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=16, z=150} BlockPos{x=-1, y=16, z=148}
+[01Jun2025 05:26:38.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=16, z=151} BlockPos{x=-1, y=16, z=148}
+[01Jun2025 05:26:38.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=16, z=151} BlockPos{x=-1, y=16, z=148}
+[01Jun2025 05:26:38.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2, y=16, z=151} BlockPos{x=-1, y=16, z=148}
+[01Jun2025 05:26:38.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=16, z=151} BlockPos{x=-1, y=16, z=148}
+[01Jun2025 05:26:55.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/263262, l='ServerLevel[world]', x=-601.65, y=-256.00, z=417.19] died, message: 'Villager was killed'
+[01Jun2025 05:27:08.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=16, z=149} BlockPos{x=15, y=15, z=146}
+[01Jun2025 05:27:12.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=16, z=143} BlockPos{x=17, y=16, z=143}
+[01Jun2025 05:27:12.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=16, y=16, z=143} BlockPos{x=17, y=16, z=143}
+[01Jun2025 05:27:23.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=15, z=146} BlockPos{x=22, y=15, z=147}
+[01Jun2025 05:28:27.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=16, z=138} BlockPos{x=-35, y=16, z=138}
+[01Jun2025 05:28:27.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=16, z=138} BlockPos{x=-35, y=16, z=138}
+[01Jun2025 05:28:27.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=16, z=138} BlockPos{x=-35, y=16, z=138}
+[01Jun2025 05:28:27.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=16, z=139} BlockPos{x=-35, y=16, z=138}
+[01Jun2025 05:28:27.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=16, z=137} BlockPos{x=-35, y=16, z=138}
+[01Jun2025 05:28:27.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=16, z=137} BlockPos{x=-35, y=16, z=138}
+[01Jun2025 05:28:27.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=16, z=138} BlockPos{x=-35, y=16, z=138}
+[01Jun2025 05:28:51.821] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 05:29:34.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[01Jun2025 05:29:34.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[01Jun2025 05:30:08.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=16, z=162} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:08.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=16, z=162} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:08.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=162} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:09.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=162} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:09.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=162} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:09.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=162} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:09.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=159} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:09.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=159} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:09.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-44, y=16, z=161} BlockPos{x=-40, y=16, z=162}
+[01Jun2025 05:30:15.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=146} BlockPos{x=-43, y=16, z=145}
+[01Jun2025 05:30:15.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=146} BlockPos{x=-43, y=16, z=145}
+[01Jun2025 05:30:15.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=16, z=146} BlockPos{x=-43, y=16, z=145}
+[01Jun2025 05:30:15.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-41, y=16, z=145} BlockPos{x=-43, y=16, z=145}
+[01Jun2025 05:30:35.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=16, z=127} BlockPos{x=-28, y=16, z=127}
+[01Jun2025 05:30:35.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-27, y=16, z=127} BlockPos{x=-28, y=16, z=127}
+[01Jun2025 05:30:35.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=16, z=126} BlockPos{x=-28, y=16, z=127}
+[01Jun2025 05:32:55.314] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 05:41:45.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/271488, l='ServerLevel[world]', x=-585.77, y=-256.00, z=402.12] died, message: 'Villager was killed'
+[01Jun2025 05:41:59.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/271734, l='ServerLevel[world]', x=-601.65, y=-256.00, z=417.19] died, message: 'Villager was killed'
+[01Jun2025 05:42:31.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/271739, l='ServerLevel[world]', x=-570.70, y=-256.00, z=403.10] died, message: 'Villager was killed'
