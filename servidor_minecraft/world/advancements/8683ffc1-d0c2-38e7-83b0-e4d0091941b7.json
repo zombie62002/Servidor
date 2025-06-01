@@ -13863,13 +13863,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "custom": "2025-06-01 02:59:59 +0000",
-      "direct": "2025-06-01 02:59:59 +0000"
-    },
-    "done": false
-  },
   "scguns:main/treated_brass/dozier_rl": {
     "criteria": {
       "dozier_rl": "2025-06-01 01:32:22 +0000"

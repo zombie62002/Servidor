@@ -13696,5 +13696,11 @@
     },
     "done": true
   },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-06-01 03:00:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
