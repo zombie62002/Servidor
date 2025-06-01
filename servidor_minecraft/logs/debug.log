@@ -14968,3 +14968,29 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 05:10:13.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 05:10:13.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 05:11:11.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=15, z=283} BlockPos{x=-146, y=15, z=281}
+[01Jun2025 05:14:19.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=10, z=279} BlockPos{x=-155, y=8, z=279}
+[01Jun2025 05:14:19.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=10, z=279} BlockPos{x=-155, y=8, z=279}
+[01Jun2025 05:14:19.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=10, z=279} BlockPos{x=-155, y=8, z=279}
+[01Jun2025 05:15:12.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=10, z=286} BlockPos{x=-150, y=9, z=286}
+[01Jun2025 05:15:13.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:15:13.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:15:20.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=6, z=276} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:20.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=6, z=276} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:21.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=6, z=276} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:21.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=6, z=276} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:21.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=6, z=278} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:21.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=6, z=278} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:21.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=6, z=278} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:21.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-146, y=6, z=278} BlockPos{x=-148, y=7, z=277}
+[01Jun2025 05:15:24.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=6, z=282} BlockPos{x=-154, y=6, z=281}
+[01Jun2025 05:15:24.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=5, z=282} BlockPos{x=-154, y=6, z=281}
+[01Jun2025 05:15:24.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-154, y=5, z=282} BlockPos{x=-154, y=6, z=281}
+[01Jun2025 05:20:13.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:20:13.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:20:45.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/257542, l='ServerLevel[world]', x=-572.34, y=-256.00, z=401.89] died, message: 'Villager was killed'
+[01Jun2025 05:22:17.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/257791, l='ServerLevel[world]', x=-681.51, y=-256.00, z=352.15] died, message: 'Villager was killed'
+[01Jun2025 05:22:32.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258001, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[01Jun2025 05:22:42.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258046, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[01Jun2025 05:22:49.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258067, l='ServerLevel[world]', x=-587.44, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[01Jun2025 05:22:51.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258072, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
+[01Jun2025 05:22:55.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/258096, l='ServerLevel[world]', x=-601.61, y=-256.00, z=416.06] died, message: 'Villager was killed'
