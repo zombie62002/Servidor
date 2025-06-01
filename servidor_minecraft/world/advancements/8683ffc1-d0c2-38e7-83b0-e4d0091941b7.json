@@ -13791,51 +13791,27 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
-    "criteria": {
-      "has_item": "2025-05-29 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:a_shower_experience": {
-    "criteria": {
-      "builtin": "2025-05-29 02:15:52 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
-    "criteria": {
-      "has_item": "2025-05-29 01:55:55 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
-    "criteria": {
-      "has_item": "2025-05-29 02:02:30 +0000"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/fluid_vessel": {
     "criteria": {
       "has_item": "2025-05-29 01:52:30 +0000"
     },
     "done": true
   },
-  "create:ejector_maxed": {
+  "create_connected:recipes/crafting/kinetics/item_silo": {
     "criteria": {
-      "0": "2025-05-29 02:11:58 +0000"
+      "has_item": "2025-05-29 01:52:30 +0000"
     },
     "done": true
   },
-  "gobber2:gobber2_sword": {
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox": {
     "criteria": {
-      "gobber2_sword": "2025-05-29 02:19:19 +0000"
+      "has_item": "2025-05-29 01:55:55 +0000"
     },
     "done": true
   },
-  "create_enchantment_industry:experimental": {
+  "create_connected:recipes/crafting/kinetics/large_crank_wheel": {
     "criteria": {
-      "builtin": "2025-05-29 02:09:19 +0000"
+      "has_item": "2025-05-29 01:55:55 +0000"
     },
     "done": true
   },
@@ -13851,15 +13827,45 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-05-29 02:02:30 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:spirit_taking": {
     "criteria": {
       "builtin": "2025-05-29 02:09:12 +0000"
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/item_silo": {
+  "create_enchantment_industry:experimental": {
     "criteria": {
-      "has_item": "2025-05-29 01:52:30 +0000"
+      "builtin": "2025-05-29 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "create:ejector_maxed": {
+    "criteria": {
+      "0": "2025-05-29 02:11:58 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:a_shower_experience": {
+    "criteria": {
+      "builtin": "2025-05-29 02:15:52 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2025-05-29 02:19:19 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/treated_brass/dozier_rl": {
+    "criteria": {
+      "dozier_rl": "2025-06-01 01:32:22 +0000"
     },
     "done": true
   },
