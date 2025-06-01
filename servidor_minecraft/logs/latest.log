@@ -2543,3 +2543,31 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 04:06:26.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110615, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
 [01Jun2025 04:06:31.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110626, l='ServerLevel[world]', x=-599.44, y=-256.00, z=417.08] died, message: 'Villager was killed'
 [01Jun2025 04:08:35.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/111093, l='ServerLevel[world]', x=-599.46, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[01Jun2025 04:17:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Precise Fabrication]
+[01Jun2025 04:20:16.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/114314, l='ServerLevel[world]', x=-572.34, y=-256.00, z=401.89] died, message: 'Villager was killed'
+[01Jun2025 04:20:18.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/114515, l='ServerLevel[world]', x=-567.37, y=-256.00, z=417.03] died, message: 'Villager was killed'
+[01Jun2025 04:20:24.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/114555, l='ServerLevel[world]', x=-596.78, y=-256.00, z=417.04] died, message: 'Villager was killed'
+[01Jun2025 04:29:22.333] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:29:29.571] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:29:29.670] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:29:32.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:29:40.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:30:34.331] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:30:50.420] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:31:08.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.283273259725064,-0.8956229510355911,4.004317698587897
+[01Jun2025 04:32:13.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119164, l='ServerLevel[world]', x=-580.74, y=-256.00, z=417.04] died, message: 'Villager was killed'
+[01Jun2025 04:32:30.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -8.209198227740472,-1.5799152826887735,5.993217975757034
+[01Jun2025 04:32:32.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119427, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[01Jun2025 04:32:52.112] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119560, l='ServerLevel[world]', x=-570.34, y=-256.00, z=402.98] died, message: 'Villager was killed'
+[01Jun2025 04:33:38.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/119712, l='ServerLevel[world]', x=-579.15, y=-256.00, z=407.54] died, message: 'Villager was killed'
+[01Jun2025 04:34:15.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/120151, l='ServerLevel[world]', x=-601.61, y=-256.00, z=416.06] died, message: 'Villager was killed'
+[01Jun2025 04:34:39.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-262, y=100, z=286} BlockPos{x=-262, y=99, z=287}
+[01Jun2025 04:34:40.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/120341, l='ServerLevel[world]', x=-582.45, y=-256.00, z=417.02] died, message: 'Villager was killed'
+[01Jun2025 04:35:30.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/120505, l='ServerLevel[world]', x=-612.50, y=53.00, z=407.50] died, message: 'Villager was killed'
+[01Jun2025 04:35:45.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/120891, l='ServerLevel[world]', x=-565.40, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[01Jun2025 04:35:53.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/121017, l='ServerLevel[world]', x=-601.65, y=-256.00, z=417.19] died, message: 'Villager was killed'
+[01Jun2025 04:37:11.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/121556, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[01Jun2025 04:37:51.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/122021, l='ServerLevel[world]', x=-598.77, y=-256.00, z=404.50] died, message: 'Villager was killed'
+[01Jun2025 04:38:20.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:38:29.120] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:40:17.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already

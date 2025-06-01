@@ -13869,9 +13869,21 @@
     },
     "done": true
   },
+  "create_connected:sequenced_pulse_generator": {
+    "criteria": {
+      "0": "2025-06-01 04:23:21 +0000"
+    },
+    "done": true
+  },
   "scguns:main/treated_brass/gauss_rifle": {
     "criteria": {
       "gauss_rifle": "2025-06-01 01:36:24 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/sequenced_pulse_generator": {
+    "criteria": {
+      "has_item": "2025-06-01 04:17:46 +0000"
     },
     "done": true
   },
@@ -13884,6 +13896,12 @@
   "create_enchantment_industry:copiable_mystery": {
     "criteria": {
       "builtin": "2025-06-01 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "create_connected:control_chip": {
+    "criteria": {
+      "0": "2025-06-01 04:17:46 +0000"
     },
     "done": true
   },

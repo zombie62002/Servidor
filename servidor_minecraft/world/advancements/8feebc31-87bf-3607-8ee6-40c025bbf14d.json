@@ -13702,5 +13702,11 @@
     },
     "done": true
   },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-06-01 04:28:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
