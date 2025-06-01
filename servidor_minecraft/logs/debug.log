@@ -14913,3 +14913,49 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 04:50:13.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 04:50:26.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/171261, l='ServerLevel[world]', x=-602.47, y=-256.00, z=417.25] died, message: 'Villager was killed'
 [01Jun2025 04:50:39.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/171305, l='ServerLevel[world]', x=-582.67, y=-256.00, z=401.98] died, message: 'Villager was killed'
+[01Jun2025 04:52:18.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=12, z=295} BlockPos{x=-253, y=12, z=294}
+[01Jun2025 04:53:08.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/220019, l='ServerLevel[world]', x=-566.60, y=-256.00, z=416.12] died, message: 'Villager was killed'
+[01Jun2025 04:53:20.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:53:46.375] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-775, y=56, z=310}
+[01Jun2025 04:53:46.375] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-773, y=57, z=310}
+[01Jun2025 04:53:46.375] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=58, z=310}
+[01Jun2025 04:53:46.375] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-771, y=57, z=310}
+[01Jun2025 04:53:46.375] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=56, z=310}
+[01Jun2025 04:53:47.473] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=352}
+[01Jun2025 04:53:47.473] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=296}
+[01Jun2025 04:53:47.473] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=335}
+[01Jun2025 04:53:47.473] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-760, y=65, z=302}
+[01Jun2025 04:53:47.473] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-768, y=63, z=335}
+[01Jun2025 04:53:47.473] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-762, y=63, z=352}
+[01Jun2025 04:53:47.473] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=295}
+[01Jun2025 04:53:48.624] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-751, y=63, z=296}
+[01Jun2025 04:53:59.471] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=407}
+[01Jun2025 04:53:59.471] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=68, z=396}
+[01Jun2025 04:53:59.471] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=69, z=400}
+[01Jun2025 04:53:59.471] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=408}
+[01Jun2025 04:54:39.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=58, y=64, z=540} BlockPos{x=59, y=62, z=540}
+[01Jun2025 04:54:39.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=58, y=64, z=540} BlockPos{x=59, y=62, z=540}
+[01Jun2025 04:54:47.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=64, z=613} BlockPos{x=61, y=62, z=615}
+[01Jun2025 04:54:47.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=62, y=64, z=614} BlockPos{x=61, y=62, z=615}
+[01Jun2025 04:55:07.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/227020, l='ServerLevel[world]', x=-581.54, y=-256.00, z=402.99] died, message: 'Villager was killed'
+[01Jun2025 04:55:08.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/227055, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[01Jun2025 04:55:10.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/227087, l='ServerLevel[world]', x=-599.44, y=-256.00, z=417.08] died, message: 'Villager was killed'
+[01Jun2025 04:55:13.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:55:13.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:55:17.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/228214, l='ServerLevel[world]', x=-565.92, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[01Jun2025 04:55:30.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/228707, l='ServerLevel[world]', x=-571.52, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[01Jun2025 04:55:58.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/229134, l='ServerLevel[world]', x=-570.38, y=-256.00, z=417.11] died, message: 'Villager was killed'
+[01Jun2025 04:56:16.362] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/229264, l='ServerLevel[world]', x=-603.23, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[01Jun2025 04:56:24.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/229308, l='ServerLevel[world]', x=-571.53, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[01Jun2025 04:56:26.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/229344, l='ServerLevel[world]', x=-565.40, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[01Jun2025 04:56:42.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/230218, l='ServerLevel[world]', x=-597.33, y=-256.00, z=402.00] died, message: 'Villager was killed'
+[01Jun2025 04:56:57.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[01Jun2025 04:57:01.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/230440, l='ServerLevel[world]', x=-585.82, y=-256.00, z=401.98] died, message: 'Villager was killed'
+[01Jun2025 04:57:02.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/230527, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[01Jun2025 04:58:32.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-238, y=12, z=292} BlockPos{x=-237, y=12, z=291}
+[01Jun2025 04:58:52.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-227, y=4, z=289} BlockPos{x=-226, y=4, z=289}
+[01Jun2025 05:00:13.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:00:13.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:01:31.900] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 34
+[01Jun2025 05:01:31.900] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.ResultContainer@6dea5dbe=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@6dea5dbe, c=net.minecraft.world.inventory.InventoryMenu@7cf1765c, b=0, e=0}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@7cf1765c, b=9, e=35}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@7cf1765c, b=36, e=44}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@7cf1765c, b=45, e=45}, net.minecraft.world.inventory.TransientCraftingContainer@997d478=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@997d478, c=net.minecraft.world.inventory.InventoryMenu@7cf1765c, b=1, e=4}}
+[01Jun2025 05:01:31.900] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@7cf1765c, b=9, e=35}
