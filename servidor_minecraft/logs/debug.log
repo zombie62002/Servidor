@@ -15103,3 +15103,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 05:50:13.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 05:50:13.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 05:51:51.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 5.067101257123909,-0.7967356006687112,-8.853829440229958
+[01Jun2025 05:55:13.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:55:13.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:57:50.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276211, l='ServerLevel[world]', x=-568.15, y=-256.00, z=417.12] died, message: 'Villager was killed'
+[01Jun2025 05:59:05.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276554, l='ServerLevel[world]', x=-580.78, y=-256.00, z=416.56] died, message: 'Villager was killed'
+[01Jun2025 05:59:08.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276786, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[01Jun2025 05:59:28.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276833, l='ServerLevel[world]', x=-570.46, y=-256.00, z=416.00] died, message: 'Villager was killed'
+[01Jun2025 06:00:03.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276837, l='ServerLevel[world]', x=-580.78, y=-256.00, z=416.56] died, message: 'Villager was killed'
+[01Jun2025 06:00:11.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276931, l='ServerLevel[world]', x=-598.77, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[01Jun2025 06:00:13.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 06:00:13.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 06:02:11.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/277409, l='ServerLevel[world]', x=-612.50, y=53.00, z=407.50] died, message: 'Villager was killed'
+[01Jun2025 06:02:46.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/277578, l='ServerLevel[world]', x=-571.23, y=-256.00, z=415.89] died, message: 'Villager was killed'
