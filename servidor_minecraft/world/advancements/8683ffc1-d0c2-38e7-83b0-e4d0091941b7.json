@@ -13875,6 +13875,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-06-01 04:05:47 +0000"
+    },
+    "done": true
+  },
   "create_enchantment_industry:copiable_mystery": {
     "criteria": {
       "builtin": "2025-06-01 02:42:09 +0000"

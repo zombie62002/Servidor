@@ -2537,3 +2537,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 03:57:20.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -3.502541343004509,-5.5,8.119708992348194
 [01Jun2025 03:57:20.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7406ms or 148 ticks behind
 [01Jun2025 03:57:22.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asds
+[01Jun2025 04:05:48.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110459, l='ServerLevel[world]', x=-582.67, y=-256.00, z=401.98] died, message: 'Villager was killed'
+[01Jun2025 04:06:14.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110466, l='ServerLevel[world]', x=-568.31, y=-256.00, z=402.00] died, message: 'Villager was killed'
+[01Jun2025 04:06:16.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110568, l='ServerLevel[world]', x=-602.75, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[01Jun2025 04:06:26.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110615, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[01Jun2025 04:06:31.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/110626, l='ServerLevel[world]', x=-599.44, y=-256.00, z=417.08] died, message: 'Villager was killed'
+[01Jun2025 04:08:35.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/111093, l='ServerLevel[world]', x=-599.46, y=-256.00, z=401.99] died, message: 'Villager was killed'
