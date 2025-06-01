@@ -2418,3 +2418,29 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 02:33:02.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:57819] logged in with entity id 42850 at (-761.5816988049655, 63.0, 342.1288768045511)
 [01Jun2025 02:33:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [01Jun2025 02:33:56.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43808, l='ServerLevel[world]', x=-574.41, y=-256.00, z=400.50] died, message: 'Villager was killed'
+[01Jun2025 02:40:18.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[01Jun2025 02:40:18.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01Jun2025 02:41:06.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:46787] logged in with entity id 46943 at (-765.6214539847457, 63.0, 360.2603562131681)
+[01Jun2025 02:41:06.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01Jun2025 02:42:06.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[01Jun2025 02:42:06.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01Jun2025 02:42:09.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Copiable Mystery]
+[01Jun2025 02:42:19.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:39393] logged in with entity id 47496 at (-765.6214539847457, 63.0, 360.2603562131681)
+[01Jun2025 02:42:19.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01Jun2025 02:42:27.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gfdgfds
+[01Jun2025 02:42:39.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> gh
+[01Jun2025 02:45:05.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48673, l='ServerLevel[world]', x=-765.56, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[01Jun2025 02:46:55.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49424, l='ServerLevel[world]', x=-588.61, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[01Jun2025 02:47:38.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49818, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[01Jun2025 02:47:42.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49848, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[01Jun2025 02:48:45.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50255, l='ServerLevel[world]', x=-570.46, y=-256.00, z=416.00] died, message: 'Villager was killed'
+[01Jun2025 02:49:18.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50267, l='ServerLevel[world]', x=-597.96, y=-256.00, z=405.50] died, message: 'Villager was killed'
+[01Jun2025 02:50:04.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50580, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.95] died, message: 'Villager was killed'
+[01Jun2025 02:50:43.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/36703, l='ServerLevel[world]', x=-663.49, y=32.00, z=408.49] died, message: 'Librarian was slain by Zombie62002'
+[01Jun2025 02:51:01.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51146, l='ServerLevel[world]', x=-601.61, y=-256.00, z=416.06] died, message: 'Villager was killed'
+[01Jun2025 02:51:05.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51170, l='ServerLevel[world]', x=-601.68, y=-256.00, z=401.85] died, message: 'Villager was killed'
+[01Jun2025 02:51:23.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51254, l='ServerLevel[world]', x=-601.61, y=-256.00, z=416.06] died, message: 'Villager was killed'
+[01Jun2025 02:51:40.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51391, l='ServerLevel[world]', x=-601.65, y=-256.00, z=417.19] died, message: 'Villager was killed'
+[01Jun2025 02:52:57.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51726, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[01Jun2025 02:54:04.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52164, l='ServerLevel[world]', x=-607.52, y=-256.00, z=410.33] died, message: 'Villager was killed'
+[01Jun2025 03:00:24.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Spirit Taking]

@@ -13863,6 +13863,13 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "custom": "2025-06-01 02:59:59 +0000",
+      "direct": "2025-06-01 02:59:59 +0000"
+    },
+    "done": false
+  },
   "scguns:main/treated_brass/dozier_rl": {
     "criteria": {
       "dozier_rl": "2025-06-01 01:32:22 +0000"
@@ -13872,6 +13879,12 @@
   "scguns:main/treated_brass/gauss_rifle": {
     "criteria": {
       "gauss_rifle": "2025-06-01 01:36:24 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:copiable_mystery": {
+    "criteria": {
+      "builtin": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
