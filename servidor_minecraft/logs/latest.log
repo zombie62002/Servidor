@@ -2326,3 +2326,22 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [01Jun2025 01:56:08.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22579, l='ServerLevel[world]', x=-595.15, y=-256.00, z=407.15] died, message: 'Villager was killed'
 [01Jun2025 01:56:42.924] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [01Jun2025 01:56:42.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01Jun2025 02:02:16.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:53277] logged in with entity id 23755 at (-762.0608198370458, 63.0, 337.0693518309471)
+[01Jun2025 02:02:16.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01Jun2025 02:02:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yo nunca e singao
+[01Jun2025 02:04:32.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[01Jun2025 02:04:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01Jun2025 02:04:47.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:50583] logged in with entity id 24300 at (-767.8888426596436, 63.0, 337.83672435212793)
+[01Jun2025 02:04:47.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[01Jun2025 02:05:25.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pero e velda que tu ere duro
+[01Jun2025 02:06:54.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24843, l='ServerLevel[world]', x=-765.55, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[01Jun2025 02:07:21.211] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24911, l='ServerLevel[world]', x=-572.22, y=-256.00, z=401.90] died, message: 'Villager was killed'
+[01Jun2025 02:07:58.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mano una pregunta?
+[01Jun2025 02:08:00.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24951, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[01Jun2025 02:08:05.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Dime?
+[01Jun2025 02:08:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> que paso con la lampara de piedra luminosa?
+[01Jun2025 02:08:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> no me sale el crafteo
+[01Jun2025 02:08:46.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y yo recuerdo que eso se podia fabricar
+[01Jun2025 02:08:47.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[01Jun2025 02:08:47.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[01Jun2025 02:08:50.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Lampara de piedra luminosa??
