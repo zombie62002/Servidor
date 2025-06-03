@@ -2680,3 +2680,16 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [03Jun2025 03:41:17.710] [IO-Worker-80/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/DIM1/region/r.-3.-3.mca has an invalid sector at index: 999; sector 972 is out of bounds
 [03Jun2025 03:41:17.710] [IO-Worker-80/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/DIM1/region/r.-3.-3.mca has an invalid sector at index: 1000; sector 1005 is out of bounds
 [03Jun2025 03:41:17.710] [IO-Worker-80/WARN] [net.minecraft.world.level.chunk.storage.RegionFile/]: Region file ./world/DIM1/region/r.-3.-3.mca has an invalid sector at index: 1001; sector 1025 is out of bounds
+[03Jun2025 03:44:15.230] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[03Jun2025 03:48:24.961] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lechina lost connection: Disconnected
+[03Jun2025 03:48:24.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina left the game
+[03Jun2025 03:49:15.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50825, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[03Jun2025 03:50:05.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51012, l='ServerLevel[world]', x=-612.50, y=53.00, z=407.50] died, message: 'Villager was killed'
+[03Jun2025 03:50:10.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51122, l='ServerLevel[world]', x=-568.15, y=-256.00, z=417.12] died, message: 'Villager was killed'
+[03Jun2025 03:50:42.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51320, l='ServerLevel[world]', x=-585.61, y=-256.00, z=402.00] died, message: 'Villager was killed'
+[03Jun2025 03:50:54.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51406, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[03Jun2025 03:51:49.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51600, l='ServerLevel[world]', x=-603.47, y=-256.00, z=417.17] died, message: 'Villager was killed'
+[03Jun2025 03:53:13.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51787, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[03Jun2025 03:53:57.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52012, l='ServerLevel[world]', x=-765.61, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[03Jun2025 03:53:59.592] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52036, l='ServerLevel[world]', x=-597.32, y=-256.00, z=401.78] died, message: 'Villager was killed'
+[03Jun2025 03:54:12.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/52069, l='ServerLevel[world]', x=-567.70, y=-256.00, z=402.96] died, message: 'Villager was killed'
