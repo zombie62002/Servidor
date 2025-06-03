@@ -13863,87 +13863,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-01 05:29:13 +0000"
-    },
-    "done": false
-  },
   "scguns:main/treated_brass/dozier_rl": {
     "criteria": {
       "dozier_rl": "2025-06-01 01:32:22 +0000"
-    },
-    "done": true
-  },
-  "create_connected:sequenced_pulse_generator": {
-    "criteria": {
-      "0": "2025-06-01 04:23:21 +0000"
     },
     "done": true
   },
@@ -13953,9 +13875,9 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/sequenced_pulse_generator": {
+  "create_enchantment_industry:copiable_mystery": {
     "criteria": {
-      "has_item": "2025-06-01 04:17:46 +0000"
+      "builtin": "2025-06-01 02:42:09 +0000"
     },
     "done": true
   },
@@ -13965,15 +13887,21 @@
     },
     "done": true
   },
-  "create_enchantment_industry:copiable_mystery": {
+  "create_connected:recipes/crafting/kinetics/sequenced_pulse_generator": {
     "criteria": {
-      "builtin": "2025-06-01 02:42:09 +0000"
+      "has_item": "2025-06-01 04:17:46 +0000"
     },
     "done": true
   },
   "create_connected:control_chip": {
     "criteria": {
       "0": "2025-06-01 04:17:46 +0000"
+    },
+    "done": true
+  },
+  "create_connected:sequenced_pulse_generator": {
+    "criteria": {
+      "0": "2025-06-01 04:23:21 +0000"
     },
     "done": true
   },
