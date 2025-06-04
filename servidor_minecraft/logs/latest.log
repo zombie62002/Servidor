@@ -3405,3 +3405,14 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [04Jun2025 05:04:48.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61847, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
 [04Jun2025 05:07:18.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/63571, l='ServerLevel[world]', x=-603.23, y=-256.00, z=401.95] died, message: 'Villager was killed'
 [04Jun2025 05:08:10.622] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64023, l='ServerLevel[world]', x=-567.70, y=-256.00, z=402.96] died, message: 'Villager was killed'
+[04Jun2025 05:19:42.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69945, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[04Jun2025 05:19:47.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69968, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[04Jun2025 05:20:18.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69981, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[04Jun2025 05:20:23.471] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70216, l='ServerLevel[world]', x=-602.47, y=-256.00, z=417.25] died, message: 'Villager was killed'
+[04Jun2025 05:20:36.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70257, l='ServerLevel[world]', x=-568.51, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[04Jun2025 05:20:40.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70302, l='ServerLevel[world]', x=-571.52, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[04Jun2025 05:21:29.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70612, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[04Jun2025 05:23:36.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[04Jun2025 05:23:36.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04Jun2025 05:23:40.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[04Jun2025 05:23:40.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game

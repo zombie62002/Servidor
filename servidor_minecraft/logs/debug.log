@@ -11158,3 +11158,44 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [04Jun2025 05:09:04.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jun2025 05:14:04.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jun2025 05:14:04.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 05:19:04.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 05:19:04.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 05:19:27.843] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 52
+[04Jun2025 05:19:27.843] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@3dc1e8d7=InventoryMapping{i=net.minecraft.world.CompoundContainer@3dc1e8d7, c=net.minecraft.world.inventory.ChestMenu@75ad2f9a, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@75ad2f9a, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@75ad2f9a, b=54, e=80}}
+[04Jun2025 05:19:27.843] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3dc1e8d7, c=net.minecraft.world.inventory.ChestMenu@75ad2f9a, b=0, e=53}
+[04Jun2025 05:19:42.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69945, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[04Jun2025 05:19:47.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69968, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[04Jun2025 05:20:18.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69981, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[04Jun2025 05:20:23.471] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70216, l='ServerLevel[world]', x=-602.47, y=-256.00, z=417.25] died, message: 'Villager was killed'
+[04Jun2025 05:20:36.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70257, l='ServerLevel[world]', x=-568.51, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[04Jun2025 05:20:40.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70302, l='ServerLevel[world]', x=-571.52, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[04Jun2025 05:21:29.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70612, l='ServerLevel[world]', x=-734.99, y=-256.00, z=300.34] died, message: 'Villager was killed'
+[04Jun2025 05:22:48.708] [Server thread/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.Instruction
+[04Jun2025 05:22:48.708] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Jun2025 05:22:48.708] [Server thread/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionMixin from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.Instruction
+[04Jun2025 05:22:48.708] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Jun2025 05:22:48.714] [Server thread/DEBUG] [mixin/]: Mixing sequencedgearshift.InstructionSpeedModifiersAccessor from create_connected.mixins.json into com.simibubi.create.content.kinetics.transmission.sequencer.InstructionSpeedModifiers
+[04Jun2025 05:22:48.714] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:sequencedgearshift.InstructionSpeedModifiersAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Jun2025 05:23:36.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[04Jun2025 05:23:36.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[04Jun2025 05:23:40.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[04Jun2025 05:23:40.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=352}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=407}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=68, z=396}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=296}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=335}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-760, y=65, z=302}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-775, y=56, z=310}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-768, y=63, z=335}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=69, z=400}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-773, y=57, z=310}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=58, z=310}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-771, y=57, z=310}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=56, z=310}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-751, y=63, z=296}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=408}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-762, y=63, z=352}
+[04Jun2025 05:23:40.348] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=295}
+[04Jun2025 05:24:04.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 05:24:04.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
