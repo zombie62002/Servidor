@@ -2315,3 +2315,54 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [05Jun2025 03:49:40.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9436, l='ServerLevel[world]', x=-588.24, y=-256.00, z=401.96] died, message: 'Villager was killed'
 [05Jun2025 03:49:57.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9482, l='ServerLevel[world]', x=-565.92, y=-256.00, z=417.09] died, message: 'Villager was killed'
 [05Jun2025 03:50:09.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9657, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[05Jun2025 03:50:35.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:36767] logged in with entity id 9870 at (-760.5804181251948, 63.0, 345.69999998807907)
+[05Jun2025 03:50:35.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[05Jun2025 03:50:43.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11230, l='ServerLevel[world]', x=-601.68, y=-256.00, z=401.85] died, message: 'Villager was killed'
+[05Jun2025 03:50:44.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11232, l='ServerLevel[world]', x=-565.92, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[05Jun2025 03:51:09.815] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11243, l='ServerLevel[world]', x=-587.51, y=-256.00, z=417.12] died, message: 'Villager was killed'
+[05Jun2025 03:51:11.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> pe
+[05Jun2025 03:51:59.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[05Jun2025 03:52:05.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> LAG DE MIERDA
+[05Jun2025 03:52:12.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> LET ME IN
+[05Jun2025 03:52:26.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coño porfin
+[05Jun2025 03:52:36.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bueno mas o menos
+[05Jun2025 03:53:03.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12178, l='ServerLevel[world]', x=-568.29, y=-256.00, z=401.98] died, message: 'Villager was killed'
+[05Jun2025 03:53:15.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[05Jun2025 03:53:38.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12312, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[05Jun2025 03:53:49.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12626, l='ServerLevel[world]', x=-581.41, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[05Jun2025 03:54:02.765] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12692, l='ServerLevel[world]', x=-568.38, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[05Jun2025 03:54:17.916] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12747, l='ServerLevel[world]', x=-572.50, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[05Jun2025 03:54:46.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12853, l='ServerLevel[world]', x=-582.45, y=-256.00, z=417.02] died, message: 'Villager was killed'
+[05Jun2025 03:54:57.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12944, l='ServerLevel[world]', x=-765.45, y=-256.00, z=338.91] died, message: 'Villager was killed'
+[05Jun2025 03:55:11.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13004, l='ServerLevel[world]', x=-574.49, y=-256.00, z=400.38] died, message: 'Villager was killed'
+[05Jun2025 03:55:46.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13240, l='ServerLevel[world]', x=-581.76, y=-256.00, z=402.96] died, message: 'Villager was killed'
+[05Jun2025 03:56:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> HEY
+[05Jun2025 03:56:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Te Necesitaba
+[05Jun2025 03:56:38.765] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13436, l='ServerLevel[world]', x=-568.40, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[05Jun2025 03:56:40.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13592, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[05Jun2025 03:56:41.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> onta la prensa
+[05Jun2025 03:56:43.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13594, l='ServerLevel[world]', x=-598.85, y=-256.00, z=402.96] died, message: 'Villager was killed'
+[05Jun2025 03:56:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ah ya
+[05Jun2025 03:56:46.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Esa
+[05Jun2025 03:56:50.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13623, l='ServerLevel[world]', x=-583.33, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[05Jun2025 03:56:51.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13660, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[05Jun2025 03:56:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Hey ven
+[05Jun2025 03:56:59.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13745, l='ServerLevel[world]', x=-599.44, y=-256.00, z=417.08] died, message: 'Villager was killed'
+[05Jun2025 03:57:04.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Necesito tu ayuda
+[05Jun2025 03:57:10.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dime
+[05Jun2025 03:57:23.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ok agarra esto
+[05Jun2025 03:57:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ok agarraste los cubos?
+[05Jun2025 03:57:43.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> se
+[05Jun2025 03:57:45.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ven COnmigo?
+[05Jun2025 03:58:14.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ok mirando esta cinta vais lanzandado los cubos en uno en uno
+[05Jun2025 03:58:21.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Espera mi señal
+[05Jun2025 03:58:24.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> desde el nether?
+[05Jun2025 03:58:38.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ah vos vas al nether ok
+[05Jun2025 03:58:55.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Lanza
+[05Jun2025 03:59:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Anda lanzando
+[05Jun2025 03:59:14.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahi van
+[05Jun2025 03:59:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Bro?
+[05Jun2025 03:59:52.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> veo que se quedan varios con lava esperando
+[05Jun2025 03:59:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> porque se tardan en vaciar
+[05Jun2025 04:00:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> deja de soltar
+[05Jun2025 04:00:11.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> dame las cubetas
