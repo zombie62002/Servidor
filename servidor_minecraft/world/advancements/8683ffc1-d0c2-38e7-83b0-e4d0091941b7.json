@@ -13983,11 +13983,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
     "criteria": {
-      "requirement": "2025-06-05 04:31:07 +0000"
+      "has_advanced_pump_upgrade": "2025-06-05 04:38:05 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-06-05 04:37:22 +0000"
+    },
+    "done": true
   },
   "create:arm_many_targets": {
     "criteria": {
