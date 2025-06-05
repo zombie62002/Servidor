@@ -2366,3 +2366,18 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [05Jun2025 03:59:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> porque se tardan en vaciar
 [05Jun2025 04:00:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> deja de soltar
 [05Jun2025 04:00:11.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> dame las cubetas
+[05Jun2025 04:00:29.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> se fueron xD
+[05Jun2025 04:01:11.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya dejaron de venir
+[05Jun2025 04:01:15.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> bien Bien
+[05Jun2025 04:01:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ahorita te llamo
+[05Jun2025 04:01:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> dalep
+[05Jun2025 04:01:52.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[05Jun2025 04:07:54.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18352, l='ServerLevel[world]', x=-602.29, y=-256.00, z=416.10] died, message: 'Villager was killed'
+[05Jun2025 04:08:06.916] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18379, l='ServerLevel[world]', x=-586.79, y=-256.00, z=417.03] died, message: 'Villager was killed'
+[05Jun2025 04:08:18.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18521, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[05Jun2025 04:08:24.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18531, l='ServerLevel[world]', x=-566.60, y=-256.00, z=416.12] died, message: 'Villager was killed'
+[05Jun2025 04:08:42.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18588, l='ServerLevel[world]', x=-571.52, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[05Jun2025 04:09:22.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19033, l='ServerLevel[world]', x=-570.38, y=-256.00, z=417.11] died, message: 'Villager was killed'
+[05Jun2025 04:09:46.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19278, l='ServerLevel[world]', x=-581.49, y=-256.00, z=402.00] died, message: 'Villager was killed'
+[05Jun2025 04:10:07.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19395, l='ServerLevel[world]', x=-568.40, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[05Jun2025 04:10:21.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19855, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
