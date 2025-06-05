@@ -13983,6 +13983,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-05 04:31:07 +0000"
+    },
+    "done": false
+  },
   "create:arm_many_targets": {
     "criteria": {
       "0": "2025-06-05 03:35:18 +0000"

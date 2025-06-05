@@ -2408,3 +2408,10 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [05Jun2025 04:15:52.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> nada como robarse los recursos del tercermundo
 [05Jun2025 04:16:05.516] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22225, l='ServerLevel[world]', x=-568.51, y=-256.00, z=401.99] died, message: 'Villager was killed'
 [05Jun2025 04:16:29.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22298, l='ServerLevel[world]', x=-581.09, y=-256.00, z=401.98] died, message: 'Villager was killed'
+[05Jun2025 04:25:09.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[05Jun2025 04:25:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[05Jun2025 04:25:28.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:42605] logged in with entity id 26812 at (-761.9696568958744, 63.0, 337.43499838874993)
+[05Jun2025 04:25:28.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[05Jun2025 04:26:12.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ad,
+[05Jun2025 04:28:05.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28002, l='ServerLevel[world]', x=-598.77, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[05Jun2025 04:30:55.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28946, l='ServerLevel[world]', x=-597.32, y=-256.00, z=401.78] died, message: 'Villager was killed'
