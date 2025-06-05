@@ -2433,3 +2433,11 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [05Jun2025 04:49:22.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36192, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
 [05Jun2025 04:50:21.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36477, l='ServerLevel[world]', x=-567.37, y=-256.00, z=417.03] died, message: 'Villager was killed'
 [05Jun2025 04:51:04.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36623, l='ServerLevel[world]', x=-676.68, y=-256.00, z=350.91] died, message: 'Villager was killed'
+[05Jun2025 04:52:01.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36845, l='ServerLevel[world]', x=-566.60, y=-256.00, z=416.12] died, message: 'Villager was killed'
+[05Jun2025 04:52:24.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37042, l='ServerLevel[world]', x=-583.33, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[05Jun2025 04:53:13.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37347, l='ServerLevel[world]', x=-565.92, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[05Jun2025 04:54:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 tried to swim in lava to escape Demon
+[05Jun2025 04:54:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bruhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[05Jun2025 04:55:30.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -2.393978541248657,-9.49566938732665,4.355073742857314
+[05Jun2025 04:57:30.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Demon
+[05Jun2025 04:58:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Oof
