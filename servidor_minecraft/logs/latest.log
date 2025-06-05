@@ -2473,3 +2473,4 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [05Jun2025 05:49:28.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57026, l='ServerLevel[world]', x=-587.47, y=-256.00, z=403.15] died, message: 'Villager was killed'
 [05Jun2025 05:49:31.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57091, l='ServerLevel[world]', x=-599.44, y=-256.00, z=417.08] died, message: 'Villager was killed'
 [05Jun2025 05:49:41.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/57100, l='ServerLevel[world]', x=-764.45, y=-256.00, z=338.99] died, message: 'Villager was killed'
+[05Jun2025 06:01:43.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61112, l='ServerLevel[world]', x=-581.33, y=-256.00, z=416.66] died, message: 'Villager was killed'
