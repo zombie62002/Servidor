@@ -13722,77 +13722,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
+      "has_milk": "2025-06-04 04:08:29 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-04 05:23:04 +0000"
-    },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/apple_pie": {
     "criteria": {
@@ -13806,9 +13740,9 @@
     },
     "done": true
   },
-  "brewery:main/get_whiskey_maggoallan": {
+  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
     "criteria": {
-      "whiskey_maggoallan": "2025-06-04 04:22:33 +0000"
+      "has_pie_crust": "2025-06-04 04:10:32 +0000"
     },
     "done": true
   },
@@ -13824,15 +13758,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/food/cheese": {
+  "brewery:main/get_whiskey_maggoallan": {
     "criteria": {
-      "has_milk": "2025-06-04 04:08:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
-    "criteria": {
-      "has_pie_crust": "2025-06-04 04:10:32 +0000"
+      "whiskey_maggoallan": "2025-06-04 04:22:33 +0000"
     },
     "done": true
   },

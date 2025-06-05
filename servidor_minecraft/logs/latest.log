@@ -2273,3 +2273,20 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [05Jun2025 03:22:34.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
 [05Jun2025 03:28:41.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2987, l='ServerLevel[world]', x=-597.32, y=-256.00, z=401.78] died, message: 'Villager was killed'
 [05Jun2025 03:28:50.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3006, l='ServerLevel[world]', x=-582.85, y=-256.00, z=401.97] died, message: 'Villager was killed'
+[05Jun2025 03:30:23.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3524, l='ServerLevel[world]', x=-568.15, y=-256.00, z=417.12] died, message: 'Villager was killed'
+[05Jun2025 03:30:46.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:50671] logged in with entity id 3576 at (-755.960962530581, 82.17675927506424, 358.6126536771346)
+[05Jun2025 03:30:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[05Jun2025 03:31:04.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3547, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[05Jun2025 03:31:09.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3814, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
+[05Jun2025 03:31:31.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> y
+[05Jun2025 03:32:37.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4293, l='ServerLevel[world]', x=-588.37, y=-256.00, z=417.10] died, message: 'Villager was killed'
+[05Jun2025 03:32:46.516] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4338, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
+[05Jun2025 03:32:51.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> deltarune ayer
+[05Jun2025 03:33:30.468] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4507, l='ServerLevel[world]', x=-570.38, y=-256.00, z=417.11] died, message: 'Villager was killed'
+[05Jun2025 03:33:40.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4534, l='ServerLevel[world]', x=-565.92, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[05Jun2025 03:34:34.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4761, l='ServerLevel[world]', x=-580.63, y=-256.00, z=417.06] died, message: 'Villager was killed'
+[05Jun2025 03:34:41.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4830, l='ServerLevel[world]', x=-565.40, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[05Jun2025 03:35:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Organize-o-Tron]
+[05Jun2025 03:35:24.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4912, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[05Jun2025 03:36:23.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5375, l='ServerLevel[world]', x=-581.50, y=-256.00, z=416.11] died, message: 'Villager was killed'
+[05Jun2025 03:36:53.467] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5582, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
