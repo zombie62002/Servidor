@@ -9699,3 +9699,43 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [05Jun2025 23:16:09.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21047, l='ServerLevel[world]', x=-599.41, y=-256.00, z=402.07] died, message: 'Villager was killed'
 [05Jun2025 23:16:57.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21690, l='ServerLevel[world]', x=-574.04, y=-256.00, z=400.50] died, message: 'Villager was killed'
 [05Jun2025 23:17:03.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21929, l='ServerLevel[world]', x=-597.71, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[05Jun2025 23:17:35.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21934, l='ServerLevel[world]', x=-582.35, y=-256.00, z=402.41] died, message: 'Villager was killed'
+[05Jun2025 23:18:04.967] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[05Jun2025 23:18:04.967] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@37114435, b=27, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@37114435, b=54, e=62}, net.minecraft.world.level.block.entity.ChestBlockEntity@6b32138f=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@6b32138f, c=net.minecraft.world.inventory.ChestMenu@37114435, b=0, e=26}}
+[05Jun2025 23:18:04.967] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@6b32138f, c=net.minecraft.world.inventory.ChestMenu@37114435, b=0, e=26}
+[05Jun2025 23:18:06.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22401, l='ServerLevel[world]', x=-585.77, y=-256.00, z=402.12] died, message: 'Villager was killed'
+[05Jun2025 23:18:11.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 23:18:11.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 23:18:48.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22956, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[05Jun2025 23:19:21.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23156, l='ServerLevel[world]', x=-611.60, y=-256.00, z=406.38] died, message: 'Villager was killed'
+[05Jun2025 23:21:25.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23644, l='ServerLevel[world]', x=-611.75, y=-256.00, z=406.52] died, message: 'Villager was killed'
+[05Jun2025 23:22:10.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23837, l='ServerLevel[world]', x=-570.51, y=-256.00, z=402.42] died, message: 'Villager was killed'
+[05Jun2025 23:23:11.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 23:23:11.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 23:23:16.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24189, l='ServerLevel[world]', x=-611.59, y=-256.00, z=406.38] died, message: 'Villager was killed'
+[05Jun2025 23:24:03.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24549, l='ServerLevel[world]', x=-598.77, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[05Jun2025 23:24:21.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24587, l='ServerLevel[world]', x=-603.23, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[05Jun2025 23:28:11.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 23:28:11.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 23:30:00.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[05Jun2025 23:30:00.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=352}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=407}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-769, y=64, z=354}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=68, z=396}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=296}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=335}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-760, y=65, z=302}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-775, y=56, z=310}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-768, y=63, z=335}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=69, z=400}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-773, y=57, z=310}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=58, z=310}
+[05Jun2025 23:30:00.888] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-771, y=57, z=310}
+[05Jun2025 23:30:00.889] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=56, z=310}
+[05Jun2025 23:30:00.889] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-751, y=63, z=296}
+[05Jun2025 23:30:00.889] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=408}
+[05Jun2025 23:30:00.889] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-762, y=63, z=352}
+[05Jun2025 23:30:00.889] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=295}
+[05Jun2025 23:33:11.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 23:33:11.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
