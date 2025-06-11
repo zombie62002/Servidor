@@ -3532,3 +3532,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 04:44:11.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72320, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
 [11Jun2025 04:44:17.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72611, l='ServerLevel[world]', x=-598.22, y=-256.00, z=401.97] died, message: 'Villager was killed'
 [11Jun2025 04:44:49.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/73213, l='ServerLevel[world]', x=-602.75, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[11Jun2025 04:45:42.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/73596, l='ServerLevel[world]', x=-612.50, y=53.00, z=405.50] died, message: 'Villager was killed'
+[11Jun2025 04:45:54.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[11Jun2025 04:45:54.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[11Jun2025 04:47:25.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/74372, l='ServerLevel[world]', x=-581.76, y=-256.00, z=403.65] died, message: 'Villager was killed'
