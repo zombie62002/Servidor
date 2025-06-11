@@ -14019,5 +14019,23 @@
     },
     "done": true
   },
+  "gobber2:gobber2_links_end": {
+    "criteria": {
+      "gobber2_links_end": "2025-06-11 03:56:58 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot_end": {
+    "criteria": {
+      "gobber2_ingot_end": "2025-06-11 03:55:19 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_end": {
+    "criteria": {
+      "gobber2_ring_end": "2025-06-11 03:55:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

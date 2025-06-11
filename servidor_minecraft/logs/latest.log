@@ -2926,3 +2926,12 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 03:52:36.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.8507523238575914,-5.5,7.99134635300112
 [11Jun2025 03:52:36.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 3.743607298830966,1.6630155484665536,9.326588174445988
 [11Jun2025 03:52:36.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8260ms or 165 ticks behind
+[11Jun2025 03:55:19.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Supreme Material]
+[11Jun2025 03:55:37.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Rung Above the Rest]
+[11Jun2025 03:56:58.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Link to the Best Armor]
+[11Jun2025 04:02:10.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46046, l='ServerLevel[world]', x=-571.52, y=-256.00, z=417.07] died, message: 'Villager was killed'
+[11Jun2025 04:02:29.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [One eyed big skelly]
+[11Jun2025 04:02:36.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46256, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
+[11Jun2025 04:03:09.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46264, l='ServerLevel[world]', x=-586.01, y=-256.00, z=416.68] died, message: 'Villager was killed'
+[11Jun2025 04:03:12.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46455, l='ServerLevel[world]', x=-597.71, y=-256.00, z=417.05] died, message: 'Villager was killed'
+[11Jun2025 04:03:47.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46488, l='ServerLevel[world]', x=-574.04, y=-256.00, z=400.50] died, message: 'Villager was killed'
