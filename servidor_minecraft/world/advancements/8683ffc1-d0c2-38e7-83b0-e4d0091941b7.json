@@ -14013,6 +14013,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_end": {
+    "criteria": {
+      "gobber2_helmet_end": "2025-06-11 04:12:47 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_glob_end": {
     "criteria": {
       "gobber2_glob_end": "2025-06-11 03:47:48 +0000"
@@ -14031,9 +14037,21 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_dragon": {
+    "criteria": {
+      "gobber2_helmet_dragon": "2025-06-11 04:15:36 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_ring_end": {
     "criteria": {
       "gobber2_ring_end": "2025-06-11 03:55:37 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_dragon_elytra": {
+    "criteria": {
+      "gobber2_dragon_elytra": "2025-06-11 04:14:50 +0000"
     },
     "done": true
   },
