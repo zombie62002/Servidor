@@ -3488,3 +3488,47 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 04:23:36.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54353, l='ServerLevel[world]', x=-572.50, y=-256.00, z=416.82] died, message: 'Villager was killed'
 [11Jun2025 04:23:42.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54457, l='ServerLevel[world]', x=-683.29, y=-256.00, z=351.04] died, message: 'Villager was killed'
 [11Jun2025 04:24:21.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54660, l='ServerLevel[world]', x=-582.45, y=-256.00, z=417.02] died, message: 'Villager was killed'
+[11Jun2025 04:25:03.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54912, l='ServerLevel[world]', x=-582.54, y=-256.00, z=402.99] died, message: 'Villager was killed'
+[11Jun2025 04:25:19.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[11Jun2025 04:26:49.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55764, l='ServerLevel[world]', x=-571.29, y=-256.00, z=416.03] died, message: 'Villager was killed'
+[11Jun2025 04:26:54.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56116, l='ServerLevel[world]', x=-571.29, y=-256.00, z=416.03] died, message: 'Villager was killed'
+[11Jun2025 04:27:04.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/56195, l='ServerLevel[world]', x=-580.63, y=-256.00, z=417.06] died, message: 'Villager was killed'
+[11Jun2025 04:27:45.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -0.05081276488090225,0.0,-10.1563091256657
+[11Jun2025 04:27:45.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3661ms or 73 ticks behind
+[11Jun2025 04:28:24.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:29:20.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[11Jun2025 04:30:34.073] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:31:47.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/60282, l='ServerLevel[world]', x=-1549.56, y=68.00, z=-545.42] died: Piglin Civilian suffocated in a wall
+[11Jun2025 04:31:50.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/60338, l='ServerLevel[world]', x=-1582.27, y=54.00, z=-569.56] died: Piglin Civilian suffocated in a wall
+[11Jun2025 04:31:50.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Piglin Pillage]
+[11Jun2025 04:32:03.978] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/60365, l='ServerLevel[world]', x=-1534.22, y=47.35, z=-604.01] died: Piglin Civilian tried to swim in lava
+[11Jun2025 04:32:41.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/60478, l='ServerLevel[world]', x=-1560.12, y=63.00, z=-635.72] died: Village Guard was slain by Zombie62002 using [StungStungStungSahur]
+[11Jun2025 04:32:42.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/60479, l='ServerLevel[world]', x=-1560.48, y=62.00, z=-634.58] died: Village Brewer was burnt to a crisp whilst fighting Zombie62002
+[11Jun2025 04:33:03.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/60366, l='ServerLevel[world]', x=-1553.80, y=62.00, z=-630.51] died: Village Brewer was slain by Zombie62002 using [StungStungStungSahur]
+[11Jun2025 04:33:38.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:33:40.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -2.2449579933338555,0.33110898465342586,-9.969556695258689
+[11Jun2025 04:34:25.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:35:23.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:35:35.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:35:35.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:35:38.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[11Jun2025 04:35:57.974] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 3f5000e4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[11Jun2025 04:35:58.216] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 3f5000e4: RandomSpreadSearchWorker succeeded with 1162 radius, 11 samples
+[11Jun2025 04:36:59.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved wrongly!
+[11Jun2025 04:38:07.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66028, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[11Jun2025 04:38:14.394] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 3f5000e4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[11Jun2025 04:38:14.857] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 3f5000e4: RandomSpreadSearchWorker succeeded with 4283 radius, 254 samples
+[11Jun2025 04:38:20.078] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 3f5000e4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[11Jun2025 04:38:20.128] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 3f5000e4: RandomSpreadSearchWorker succeeded with 804 radius, 29 samples
+[11Jun2025 04:38:20.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66148, l='ServerLevel[world]', x=-602.75, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[11Jun2025 04:38:32.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66506, l='ServerLevel[world]', x=-570.38, y=-256.00, z=417.11] died, message: 'Villager was killed'
+[11Jun2025 04:38:52.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67024, l='ServerLevel[world]', x=-601.68, y=-256.00, z=401.85] died, message: 'Villager was killed'
+[11Jun2025 04:39:36.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/67069, l='ServerLevel[world]', x=36.50, y=33.00, z=-2535.18] died: Pipeline Sentry suffocated in a wall
+[11Jun2025 04:40:32.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68777, l='ServerLevel[world]', x=-571.23, y=-256.00, z=415.89] died, message: 'Villager was killed'
+[11Jun2025 04:41:21.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69539, l='ServerLevel[world]', x=-581.76, y=-256.00, z=403.65] died, message: 'Villager was killed'
+[11Jun2025 04:42:16.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70085, l='ServerLevel[world]', x=-736.50, y=61.06, z=298.50] died, message: 'Villager was killed'
+[11Jun2025 04:42:50.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70468, l='ServerLevel[world]', x=-583.09, y=-256.00, z=416.72] died, message: 'Villager was killed'
+[11Jun2025 04:43:13.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71740, l='ServerLevel[world]', x=-683.28, y=-256.00, z=349.93] died, message: 'Villager was killed'
+[11Jun2025 04:44:11.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72320, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
+[11Jun2025 04:44:17.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72611, l='ServerLevel[world]', x=-598.22, y=-256.00, z=401.97] died, message: 'Villager was killed'
+[11Jun2025 04:44:49.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/73213, l='ServerLevel[world]', x=-602.75, y=-256.00, z=401.95] died, message: 'Villager was killed'
