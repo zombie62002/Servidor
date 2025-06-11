@@ -2282,3 +2282,22 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 02:41:53.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:56137] logged in with entity id 3093 at (-763.642930893726, 63.0, 357.16232986193825)
 [11Jun2025 02:41:53.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [11Jun2025 02:42:14.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> T
+[11Jun2025 02:43:08.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[11Jun2025 02:43:08.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[11Jun2025 02:44:03.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:50277] logged in with entity id 3810 at (-762.4075006046161, 63.0, 354.57320550031443)
+[11Jun2025 02:44:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[11Jun2025 02:44:20.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> H
+[11Jun2025 02:44:45.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[11Jun2025 02:44:45.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[11Jun2025 02:44:45.130] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jun2025 02:45:50.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.150.228.4:50407] logged in with entity id 5145 at (-762.4075006046161, 63.0, 354.57320550031443)
+[11Jun2025 02:45:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[11Jun2025 02:46:03.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> GGGGG
+[11Jun2025 02:46:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> HHH
+[11Jun2025 02:48:32.203] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7825, l='ServerLevel[world]', x=-571.52, y=-256.00, z=401.93] died, message: 'Villager was killed'
+[11Jun2025 02:48:47.502] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7866, l='ServerLevel[world]', x=-588.06, y=-256.00, z=417.04] died, message: 'Villager was killed'
+[11Jun2025 02:49:25.205] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8741, l='ServerLevel[world]', x=-603.23, y=-256.00, z=401.95] died, message: 'Villager was killed'
+[11Jun2025 02:49:28.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8978, l='ServerLevel[world]', x=-565.92, y=-256.00, z=417.09] died, message: 'Villager was killed'
+[11Jun2025 02:49:36.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9079, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[11Jun2025 02:50:12.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9197, l='ServerLevel[world]', x=-582.57, y=-256.00, z=401.99] died, message: 'Villager was killed'
+[11Jun2025 02:50:55.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9410, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
