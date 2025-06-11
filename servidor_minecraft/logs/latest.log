@@ -2301,3 +2301,7 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 02:49:36.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9079, l='ServerLevel[world]', x=-586.28, y=-256.00, z=401.99] died, message: 'Villager was killed'
 [11Jun2025 02:50:12.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9197, l='ServerLevel[world]', x=-582.57, y=-256.00, z=401.99] died, message: 'Villager was killed'
 [11Jun2025 02:50:55.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9410, l='ServerLevel[world]', x=-597.59, y=-256.00, z=401.94] died, message: 'Villager was killed'
+[11Jun2025 02:52:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Z
+[11Jun2025 02:53:11.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9997, l='ServerLevel[world]', x=-583.19, y=-256.00, z=402.09] died, message: 'Villager was killed'
+[11Jun2025 02:53:35.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['I'll find you'/5586, l='ServerLevel[world]', x=-840.93, y=70.00, z=415.89] died: I'll find you was blown up by Creeper
+[11Jun2025 02:58:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> HHHJ

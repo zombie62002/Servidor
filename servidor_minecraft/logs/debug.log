@@ -10403,3 +10403,15 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 02:51:50.874] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 26
 [11Jun2025 02:51:50.875] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@aea396, b=54, e=80}, net.minecraft.world.CompoundContainer@1ffdb556=InventoryMapping{i=net.minecraft.world.CompoundContainer@1ffdb556, c=net.minecraft.world.inventory.ChestMenu@aea396, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@aea396, b=81, e=89}}
 [11Jun2025 02:51:50.875] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@1ffdb556, c=net.minecraft.world.inventory.ChestMenu@aea396, b=0, e=53}
+[11Jun2025 02:52:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> Z
+[11Jun2025 02:53:11.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9997, l='ServerLevel[world]', x=-583.19, y=-256.00, z=402.09] died, message: 'Villager was killed'
+[11Jun2025 02:53:35.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 02:53:35.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 02:53:35.842] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[11Jun2025 02:53:35.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['I'll find you'/5586, l='ServerLevel[world]', x=-840.93, y=70.00, z=415.89] died: I'll find you was blown up by Creeper
+[11Jun2025 02:58:35.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 02:58:35.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 02:58:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> HHHJ
+[11Jun2025 02:59:29.720] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 20
+[11Jun2025 02:59:29.721] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@753e3a81, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@753e3a81, b=81, e=89}, net.minecraft.world.CompoundContainer@409a3524=InventoryMapping{i=net.minecraft.world.CompoundContainer@409a3524, c=net.minecraft.world.inventory.ChestMenu@753e3a81, b=0, e=53}}
+[11Jun2025 02:59:29.721] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@409a3524, c=net.minecraft.world.inventory.ChestMenu@753e3a81, b=0, e=53}
