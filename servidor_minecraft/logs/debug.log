@@ -13981,3 +13981,32 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 04:48:58.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jun2025 04:53:58.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jun2025 04:53:58.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 04:56:24.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Strike upon thee]
+[11Jun2025 04:57:34.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['I'll find you'/79358, l='ServerLevel[world]', x=-886.19, y=79.00, z=352.28] died: I'll find you was shot by Pokenaito
+[11Jun2025 04:58:07.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['I'll find you'/79302, l='ServerLevel[world]', x=-869.66, y=79.00, z=362.34] died: I'll find you was shot by Pokenaito
+[11Jun2025 04:58:07.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Parrot['Edward'/79345, l='ServerLevel[world]', x=-771.29, y=70.00, z=355.71] died: Edward was shot by Pokenaito
+[11Jun2025 04:58:58.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 04:58:58.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 04:59:06.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[11Jun2025 04:59:06.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[11Jun2025 04:59:06.832] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=352}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=407}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-771, y=66, z=357}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=68, z=396}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=296}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=63, z=335}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-760, y=65, z=302}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-775, y=56, z=310}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-768, y=63, z=335}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-667, y=69, z=400}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-771, y=66, z=353}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-773, y=57, z=310}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=58, z=310}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-751, y=63, z=296}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-771, y=57, z=310}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-772, y=56, z=310}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-658, y=63, z=408}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-762, y=63, z=352}
+[11Jun2025 04:59:06.833] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-763, y=64, z=295}
+[11Jun2025 05:03:58.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 05:03:58.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

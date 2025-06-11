@@ -3536,3 +3536,9 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [11Jun2025 04:45:54.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [11Jun2025 04:45:54.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [11Jun2025 04:47:25.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/74372, l='ServerLevel[world]', x=-581.76, y=-256.00, z=403.65] died, message: 'Villager was killed'
+[11Jun2025 04:56:24.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Strike upon thee]
+[11Jun2025 04:57:34.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['I'll find you'/79358, l='ServerLevel[world]', x=-886.19, y=79.00, z=352.28] died: I'll find you was shot by Pokenaito
+[11Jun2025 04:58:07.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['I'll find you'/79302, l='ServerLevel[world]', x=-869.66, y=79.00, z=362.34] died: I'll find you was shot by Pokenaito
+[11Jun2025 04:58:07.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Parrot['Edward'/79345, l='ServerLevel[world]', x=-771.29, y=70.00, z=355.71] died: Edward was shot by Pokenaito
+[11Jun2025 04:59:06.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[11Jun2025 04:59:06.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
